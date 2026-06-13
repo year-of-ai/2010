@@ -5,16 +5,18 @@
 
 ## Now
 
-_All Tick 1 items complete — see Done. Next tick will pull from Backlog._
+| Item | Tag | Priority |
+|---|---|---|
+| Deep-dive: Arab Spring / Tunisia Jasmine Revolution (Dec 17, 2010) | content | high |
+| Deep-dive: iPad launch (Apr 3, 2010) | content | medium |
+| Deep-dive: *The Social Network* film (Oct 1, 2010) | content | medium |
 
 ## Backlog
 
 | Item | Tag | Priority |
 |---|---|---|
-| Deep-dive: Arab Spring / Tunisia Jasmine Revolution (Dec 17, 2010) | content | high |
 | Deep-dive: Affordable Care Act signing (Mar 23, 2010) | content | medium |
 | Deep-dive: Chilean mining rescue (Oct 13, 2010) | content | medium |
-| Deep-dive: iPad launch (Apr 3, 2010) | content | medium |
 | Deep-dive: FIFA World Cup South Africa (Jun–Jul 2010) | content | medium |
 | Deep-dive: WikiLeaks diplomatic cables release (Nov 2010) | content | medium |
 | Deep-dive: Dodd-Frank Act (Jul 21, 2010) | content | low |
@@ -24,6 +26,9 @@ _All Tick 1 items complete — see Done. Next tick will pull from Backlog._
 
 | Item | Tag | Completed |
 |---|---|---|
+| Deep-dive: Arab Spring / Tunisia Jasmine Revolution (Dec 17, 2010) | content | 2026-06-13 |
+| Deep-dive: iPad launch (Apr 3, 2010) | content | 2026-06-13 |
+| Deep-dive: *The Social Network* film (Oct 1, 2010) | content | 2026-06-13 |
 | Generate all structural artifacts (TIMELINE.md, category indices, INDEX.md) | structure | 2026-06-13 |
 | Deep-dive: Deepwater Horizon oil spill (Apr 20, 2010) | content | 2026-06-13 |
 | Deep-dive: Haiti earthquake (Jan 12, 2010) | content | 2026-06-13 |

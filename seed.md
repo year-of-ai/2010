@@ -46,7 +46,7 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2010 is the current instance, spawned from the year 2009.
 
-**Generation status: growing** — 1 tick completed. Spawned from [year-of-ai/2009](https://github.com/year-of-ai/2009) — the year 2009.
+**Generation status: growing** — 2 ticks completed. Spawned from [year-of-ai/2009](https://github.com/year-of-ai/2009) — the year 2009.
 
 ## 3. Architecture (customization layer)
 
@@ -83,18 +83,21 @@ seed.
 
 - **Taxonomy:** History & Politics, Science & Technology, Arts & Culture, Society & Economics, People.
 - **Knowledge table:** `README.md` → `## Notable Events of 2010` (13 rows).
-- **Dedicated topic files:** 2
+- **Dedicated topic files:** 5
   - `history-politics/deepwater-horizon-oil-spill.md` — Deepwater Horizon Oil Spill (April 20, 2010)
   - `history-politics/haiti-earthquake.md` — 2010 Haiti Earthquake (January 12, 2010)
+  - `history-politics/arab-spring-tunisia.md` — Arab Spring / Tunisia Jasmine Revolution (December 17, 2010)
+  - `science-technology/ipad-launch.md` — iPad Launch (April 3, 2010)
+  - `arts-culture/the-social-network.md` — The Social Network film (October 1, 2010)
 
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
 - `TIMELINE.md` — chronological index of 13 events, generated Tick 1 (2026-06-13)
 - `INDEX.md` — master content index grouped by taxonomy category, generated Tick 1 (2026-06-13)
-- `history-politics/index.md` — category index (2 topic files)
-- `science-technology/index.md` — category index (stub, no topic files yet)
-- `arts-culture/index.md` — category index (stub, no topic files yet)
+- `history-politics/index.md` — category index (3 topic files)
+- `science-technology/index.md` — category index (1 topic file)
+- `arts-culture/index.md` — category index (1 topic file)
 - `society-economics/index.md` — category index (stub, no topic files yet)
 - `people/index.md` — category index (stub, no topic files yet)
 
@@ -169,3 +172,21 @@ First autonomous growth tick for the year 2010 knowledge base. Executed the full
 - Updated `README.md`: linked Deepwater Horizon and Haiti earthquake rows to their dedicated files.
 
 **Record**: ROADMAP.md updated (3 items → Done); seed.md §§1–7 regenerated via sync-seed; lifecycle.yml `generation_ticks` incremented to 1.
+
+---
+
+### Tick 2: Content (Arab Spring, iPad Launch, The Social Network) — 2026-06-13
+
+Second autonomous growth tick for the year 2010 knowledge base. Executed the full Orient → Plan → Execute → Verify → Record → Publish pipeline.
+
+**Lifecycle gate**: Phase `grow` — 1/3 generation ticks, 6/7 lineage members.
+
+**Plan (plan-roadmap)**: Selected 3 content items from the Backlog — highest-priority remaining item (Arab Spring) + coverage-gap items filling Science & Technology and Arts & Culture (zero dedicated files in those categories before this tick).
+
+**Execute — content**:
+- Created `history-politics/arab-spring-tunisia.md`: Deep-dive on the December 17, 2010 self-immolation of Mohamed Bouazizi in Sidi Bouzid, Tunisia, which ignited the Jasmine Revolution; Ben Ali fled January 14, 2011 after 28 days of protests (≥338 dead); catalyst for the wider Arab Spring. Sources: Britannica (Jasmine Revolution + Arab Spring), Wikipedia (Tunisian revolution), History.com, Al Jazeera.
+- Created `science-technology/ipad-launch.md`: Deep-dive on the April 3, 2010 launch of Apple's first-generation iPad — 300,000+ sold on day one, 15 million before iPad 2 replaced it, 83% of 2010 tablet sales, established the modern tablet category. Sources: Wikipedia, Britannica, Apple Newsroom (official), Smithsonian National Museum of American History, Fast Company.
+- Created `arts-culture/the-social-network.md`: Deep-dive on David Fincher's October 1, 2010 biographical drama about Facebook's founding — $226 million box office, 8 Academy Award nominations, 3 wins (Adapted Screenplay, Original Score, Film Editing). Sources: Wikipedia, Wikipedia (accolades), IMDb (official), Wikipedia (soundtrack).
+- Updated `README.md`: linked Arab Spring, iPad launched, and *The Social Network* rows to their dedicated files.
+
+**Record**: ROADMAP.md updated (3 items → Done); seed.md §§1–7 regenerated via sync-seed; lifecycle.yml `generation_ticks` incremented to 2.
