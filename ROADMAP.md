@@ -7,19 +7,11 @@
 
 | Item | Tag | Priority |
 |---|---|---|
-| Deep-dive: WikiLeaks diplomatic cables release (Nov 2010) | content | medium |
-| Deep-dive: FIFA World Cup South Africa (Jun–Jul 2010) | content | medium |
 
 ## Backlog
 
 | Item | Tag | Priority |
 |---|---|---|
-| Deep-dive: Dodd-Frank Act (Jul 21, 2010) | content | low |
-| Deep-dive: Instagram launched (Oct 6, 2010) | content | medium |
-| Deep-dive: Twitter passes 100 million users (2010) | content | low |
-| Deep-dive: US midterm elections (Nov 2, 2010) — Tea Party wave | content | medium |
-| Deep-dive: Pakistan floods (Jul–Aug 2010) | content | medium |
-| Deep-dive: Kyrgyzstan revolution (Apr 2010) | content | low |
 
 ## Done
 
@@ -41,3 +33,11 @@
 - Deep-dive: Copiapó mining accident full timeline (deep drill)
 - Deep-dive: Netflix begins streaming-only push (2010)
 - Deep-dive: Google Street View privacy controversies (2010)
+- Deep-dive: WikiLeaks diplomatic cables release (Nov 2010) (deferred at replant)
+- Deep-dive: FIFA World Cup South Africa (Jun–Jul 2010) (deferred at replant)
+- Deep-dive: Dodd-Frank Act (Jul 21, 2010) (deferred at replant)
+- Deep-dive: Instagram launched (Oct 6, 2010) (deferred at replant)
+- Deep-dive: Twitter passes 100 million users (2010) (deferred at replant)
+- Deep-dive: US midterm elections (Nov 2, 2010) — Tea Party wave (deferred at replant)
+- Deep-dive: Pakistan floods (Jul–Aug 2010) (deferred at replant)
+- Deep-dive: Kyrgyzstan revolution (Apr 2010) (deferred at replant)

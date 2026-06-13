@@ -1,5 +1,7 @@
 # The Year 2010
 
+> **Status**: Mature — this repository covers the year 2010. Succeeded by [year-of-ai/2011](https://github.com/year-of-ai/2011).
+
 A self-growing knowledge base about **the year 2010** — history, science, technology, arts, society, and people.
 
 This repository is both a knowledge base and a reusable framework. It expands autonomously via `/grow`, which researches new on-topic content, builds structure, verifies facts, and publishes — all driven by the Concept Definition in [`seed.md`](seed.md). To retarget the framework at a different subject, run `/genesis "<new concept>"`.
