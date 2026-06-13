@@ -1,5 +1,10 @@
 # The Year 2010
 
+> **Consolidated into [year-of-ai/2005-2011](https://github.com/year-of-ai/2005-2011).**
+> This repository is archived and read-only. All content has been preserved under the
+> `2010/` directory in the consolidated range repository.
+
+
 > **Status**: Mature — this repository covers the year 2010. Succeeded by [year-of-ai/2011](https://github.com/year-of-ai/2011).
 
 A self-growing knowledge base about **the year 2010** — history, science, technology, arts, society, and people.
