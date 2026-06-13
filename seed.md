@@ -46,7 +46,7 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2010 is the current instance, spawned from the year 2009.
 
-**Generation status: growing** — 0 ticks completed. Spawned from [year-of-ai/2009](https://github.com/year-of-ai/2009) — the year 2009.
+**Generation status: growing** — 1 tick completed. Spawned from [year-of-ai/2009](https://github.com/year-of-ai/2009) — the year 2009.
 
 ## 3. Architecture (customization layer)
 
@@ -64,6 +64,8 @@ seed.
 | `.github/skills/sync-seed/SKILL.md` | skill | Regenerate this seed's sections 1–7 from live repo state. |
 | `.github/skills/publish-session/SKILL.md` | skill | encode-seed → review → commit → push to main. |
 | `.github/skills/check-lifecycle/SKILL.md` | skill | Lifecycle gate: count ticks → decide grow / replant / consolidate. |
+| `.github/skills/learn/SKILL.md` | skill | Per-cycle learning flywheel: mine telemetry → embed fixes into prompts. |
+| `.github/skills/pollinate/SKILL.md` | skill | Propagate framework changes from source repo to successor instances. |
 | `.github/agents/curator.agent.md` | agent | Content specialist: research & write per the concept. |
 | `.github/agents/architect.agent.md` | agent | Orchestrator: runs one `/grow` tick end-to-end; delegates. |
 | `.github/prompts/genesis.prompt.md` | prompt | `/genesis "<concept>"` — bootstrap a fresh autonomous repo for any subject. |
@@ -75,17 +77,26 @@ seed.
 | `.github/prompts/evolve.prompt.md` | prompt | Audit & improve the customization layer itself. |
 | `.github/prompts/replant.prompt.md` | prompt | `/replant` — finalize this generation and spawn the successor repo. |
 | `.github/prompts/consolidate.prompt.md` | prompt | `/consolidate` — merge a completed lineage into one range-named repo. |
+| `.github/prompts/distill.prompt.md` | prompt | `/distill` — one-time lineage meta-review; emit portable seed-package/. |
 
 ## 4. Content Inventory
 
 - **Taxonomy:** History & Politics, Science & Technology, Arts & Culture, Society & Economics, People.
-- **Knowledge table:** `README.md` → `## Notable Events of 2010` (0 rows; bootstrap pending).
-- **Dedicated topic files:** 0
+- **Knowledge table:** `README.md` → `## Notable Events of 2010` (13 rows).
+- **Dedicated topic files:** 2
+  - `history-politics/deepwater-horizon-oil-spill.md` — Deepwater Horizon Oil Spill (April 20, 2010)
+  - `history-politics/haiti-earthquake.md` — 2010 Haiti Earthquake (January 12, 2010)
 
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
-- None yet — run `/grow` to generate structure on first tick.
+- `TIMELINE.md` — chronological index of 13 events, generated Tick 1 (2026-06-13)
+- `INDEX.md` — master content index grouped by taxonomy category, generated Tick 1 (2026-06-13)
+- `history-politics/index.md` — category index (2 topic files)
+- `science-technology/index.md` — category index (stub, no topic files yet)
+- `arts-culture/index.md` — category index (stub, no topic files yet)
+- `society-economics/index.md` — category index (stub, no topic files yet)
+- `people/index.md` — category index (stub, no topic files yet)
 
 ## 6. Growth Loop
 
@@ -132,3 +143,29 @@ retargetability. The `lifecycle.yml` carries the full lineage forward (5 mature 
 
 Bootstrap state: README.md and ROADMAP.md seeded with 2010 content; first `/grow` tick will generate
 the structural layer and begin deep-dives.
+
+---
+
+### Tick 1: Structure + Content (Deepwater Horizon, Haiti Earthquake) — 2026-06-13
+
+First autonomous growth tick for the year 2010 knowledge base. Executed the full Orient → Plan → Execute → Verify → Record → Publish pipeline.
+
+**Lifecycle gate**: Phase `grow` — 0/3 generation ticks, 6/7 lineage members.
+
+**Plan (plan-roadmap)**: Selected 3 items from the Now queue — structural artifacts (high priority, first tick) + 2 high-priority content deep-dives.
+
+**Execute — structure (build-structure)**:
+- Created `TIMELINE.md`: chronological index of 13 events from the README knowledge table
+- Created `INDEX.md`: master content index grouped by all 5 taxonomy categories
+- Created `history-politics/index.md`: category index (2 topic files)
+- Created `science-technology/index.md`: category index stub
+- Created `arts-culture/index.md`: category index stub
+- Created `society-economics/index.md`: category index stub
+- Created `people/index.md`: category index stub
+
+**Execute — content (add-topic / deep-dive)**:
+- Created `history-politics/deepwater-horizon-oil-spill.md`: Deep-dive on the April 20, 2010 BP Deepwater Horizon explosion and 87-day oil spill — largest accidental marine oil spill in history, 4.9 million barrels, $20.8 billion settlement. Sources: Wikipedia, Britannica, NOAA, EPA.
+- Created `history-politics/haiti-earthquake.md`: Deep-dive on the January 12, 2010 magnitude 7.0 earthquake near Port-au-Prince — estimated 100,000–316,000 deaths, 1.5 million displaced, largest multinational humanitarian response to date. Sources: Wikipedia, Britannica, ReliefWeb, History.com.
+- Updated `README.md`: linked Deepwater Horizon and Haiti earthquake rows to their dedicated files.
+
+**Record**: ROADMAP.md updated (3 items → Done); seed.md §§1–7 regenerated via sync-seed; lifecycle.yml `generation_ticks` incremented to 1.

@@ -20,8 +20,8 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2009](http
 
 | Event | Description |
 |---|---|
-| Deepwater Horizon oil spill | The explosion of the BP Deepwater Horizon rig on April 20 triggered the largest marine oil spill in history, releasing approximately 4.9 million barrels into the Gulf of Mexico over 87 days. |
-| Haiti earthquake | A magnitude 7.0 earthquake struck Haiti on January 12, killing an estimated 100,000–316,000 people and displacing 1.5 million, making it one of the deadliest natural disasters in recorded history. |
+| [Deepwater Horizon oil spill](history-politics/deepwater-horizon-oil-spill.md) | The explosion of the BP Deepwater Horizon rig on April 20 triggered the largest marine oil spill in history, releasing approximately 4.9 million barrels into the Gulf of Mexico over 87 days. |
+| [Haiti earthquake](history-politics/haiti-earthquake.md) | A magnitude 7.0 earthquake struck Haiti on January 12, killing an estimated 100,000–316,000 people and displacing 1.5 million, making it one of the deadliest natural disasters in recorded history. |
 | Arab Spring begins | Mass protests and uprisings swept the Arab world starting in late 2010, beginning with Tunisia's Jasmine Revolution (December 17), setting off a wave of political change across the region. |
 | Affordable Care Act signed | President Obama signed the Affordable Care Act on March 23, the most significant overhaul of the US healthcare system since Medicare and Medicaid were established in 1965. |
 | Chilean mining rescue | All 33 miners trapped 700 meters underground at the San José Mine in Chile were rescued alive on October 13 after 69 days, watched live by an estimated 1 billion television viewers. |

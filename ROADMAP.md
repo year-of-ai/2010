@@ -5,13 +5,7 @@
 
 ## Now
 
-| Item | Tag | Priority |
-|---|---|---|
-| Generate TIMELINE.md from README knowledge table | structure | high |
-| Generate category index pages (all 5 slugs) | structure | high |
-| Generate master INDEX.md | structure | high |
-| Deep-dive: Deepwater Horizon oil spill (Apr 20, 2010) | content | high |
-| Deep-dive: Haiti earthquake (Jan 12, 2010) | content | high |
+_All Tick 1 items complete — see Done. Next tick will pull from Backlog._
 
 ## Backlog
 
@@ -30,6 +24,9 @@
 
 | Item | Tag | Completed |
 |---|---|---|
+| Generate all structural artifacts (TIMELINE.md, category indices, INDEX.md) | structure | 2026-06-13 |
+| Deep-dive: Deepwater Horizon oil spill (Apr 20, 2010) | content | 2026-06-13 |
+| Deep-dive: Haiti earthquake (Jan 12, 2010) | content | 2026-06-13 |
 | Genesis: seed.md, README.md, ROADMAP.md, .github/ layer | meta | 2026-06-13 |
 
 ## Ideas
