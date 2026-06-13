@@ -46,7 +46,7 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2010 is the current instance, spawned from the year 2009.
 
-**Generation status: growing** — 2 ticks completed. Spawned from [year-of-ai/2009](https://github.com/year-of-ai/2009) — the year 2009.
+**Generation status: growing** — 3 ticks completed. Spawned from [year-of-ai/2009](https://github.com/year-of-ai/2009) — the year 2009.
 
 ## 3. Architecture (customization layer)
 
@@ -83,23 +83,26 @@ seed.
 
 - **Taxonomy:** History & Politics, Science & Technology, Arts & Culture, Society & Economics, People.
 - **Knowledge table:** `README.md` → `## Notable Events of 2010` (13 rows).
-- **Dedicated topic files:** 5
+- **Dedicated topic files:** 7
   - `history-politics/deepwater-horizon-oil-spill.md` — Deepwater Horizon Oil Spill (April 20, 2010)
   - `history-politics/haiti-earthquake.md` — 2010 Haiti Earthquake (January 12, 2010)
   - `history-politics/arab-spring-tunisia.md` — Arab Spring / Tunisia Jasmine Revolution (December 17, 2010)
+  - `history-politics/chilean-mining-rescue.md` — 2010 Copiapó Mining Accident and Rescue (October 13, 2010)
   - `science-technology/ipad-launch.md` — iPad Launch (April 3, 2010)
   - `arts-culture/the-social-network.md` — The Social Network film (October 1, 2010)
+  - `society-economics/affordable-care-act.md` — Affordable Care Act (March 23, 2010)
 
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
 - `TIMELINE.md` — chronological index of 13 events, generated Tick 1 (2026-06-13)
 - `INDEX.md` — master content index grouped by taxonomy category, generated Tick 1 (2026-06-13)
-- `history-politics/index.md` — category index (3 topic files)
+- `history-politics/index.md` — category index (4 topic files)
 - `science-technology/index.md` — category index (1 topic file)
 - `arts-culture/index.md` — category index (1 topic file)
-- `society-economics/index.md` — category index (stub, no topic files yet)
+- `society-economics/index.md` — category index (1 topic file)
 - `people/index.md` — category index (stub, no topic files yet)
+- All 7 topic files carry `## Related` cross-reference blocks, added Tick 3 (2026-06-13)
 
 ## 6. Growth Loop
 
@@ -190,3 +193,25 @@ Second autonomous growth tick for the year 2010 knowledge base. Executed the ful
 - Updated `README.md`: linked Arab Spring, iPad launched, and *The Social Network* rows to their dedicated files.
 
 **Record**: ROADMAP.md updated (3 items → Done); seed.md §§1–7 regenerated via sync-seed; lifecycle.yml `generation_ticks` incremented to 2.
+
+---
+
+### Tick 3: Content (Affordable Care Act, Chilean Mining Rescue) + Cross-References — 2026-06-13
+
+Third autonomous growth tick for the year 2010 knowledge base. Executed the full Orient → Plan → Execute → Verify → Record → Publish pipeline. Shepherd-driven from year-of-ai/2005.
+
+**Lifecycle gate**: Phase `grow` — 2/3 generation ticks, 6/7 lineage members.
+
+**Plan (plan-roadmap)**: Selected 2 content items from the Backlog (Affordable Care Act, Chilean mining rescue) + structure item (cross-reference Related blocks across all topic files).
+
+**Execute — content**:
+- Created `society-economics/affordable-care-act.md`: Deep-dive on the March 23, 2010 ACA signing — Senate 60-39 / House 219-212 votes; five major provisions (exchanges, Medicaid expansion to 138% FPL, individual mandate, pre-existing condition protections, dependent coverage to age 26); uninsured rate fell from 16% to 8.9% by 2016; upheld by Supreme Court in NFIB v. Sebelius (2012). Sources: Wikipedia, Kaiser Family Foundation, NCBI/PMC, Obama Presidential Library.
+- Created `history-politics/chilean-mining-rescue.md`: Deep-dive on the August 5 cave-in at San José mine trapping 33 miners 700 meters underground; 17-day uncertainty; Plan B borehole breakthrough October 9; Fénix 2 capsule designed by Chilean Navy with NASA input; all 33 rescued alive October 12-13 in ~24 hours; global audience of ~1 billion. Sources: Wikipedia, Britannica, CNN, Smithsonian Magazine, NASA.
+- Updated `README.md`: linked Affordable Care Act and Chilean mining rescue rows to dedicated files.
+
+**Execute — structure**:
+- Added `## Related` cross-reference blocks to all 7 topic files, linking thematically connected entries across categories.
+- Updated `history-politics/index.md`: now lists all 4 topic files (added Arab Spring, Chilean rescue).
+- Updated `society-economics/index.md`: now lists 1 topic file (Affordable Care Act; previously stub).
+
+**Record**: ROADMAP.md updated (3 items → Done); seed.md §§1–7 regenerated via sync-seed; lifecycle.yml `generation_ticks` incremented to 3.

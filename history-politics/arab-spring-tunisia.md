@@ -30,3 +30,8 @@ The Tunisian Jasmine Revolution of December 2010–January 2011 was one of the m
 - [Arab Spring — Britannica](https://www.britannica.com/event/Arab-Spring)
 - [Mohamed Bouazizi self-immolates — History.com](https://www.history.com/this-day-in-history/december-17/mohamed-bouazizi-self-immolates-arab-spring)
 - [Timeline: How the Arab Spring unfolded — Al Jazeera](https://www.aljazeera.com/news/2021/1/14/arab-spring-ten-years-on)
+
+## Related
+
+- [2010 Copiapó Mining Accident and Rescue](chilean-mining-rescue.md) — another globally-watched 2010 event
+- [Affordable Care Act](../society-economics/affordable-care-act.md) — landmark legislation signed the same year

@@ -29,3 +29,8 @@ Critical reception was overwhelmingly positive. The film was nominated for eight
 - [List of accolades received by The Social Network — Wikipedia](https://en.wikipedia.org/wiki/List_of_accolades_received_by_The_Social_Network)
 - [The Social Network — IMDb Awards](https://www.imdb.com/title/tt1285016/awards/)
 - [The Social Network (soundtrack) — Wikipedia](https://en.wikipedia.org/wiki/The_Social_Network_(soundtrack))
+
+## Related
+
+- [iPad Launch](../science-technology/ipad-launch.md) — another technology milestone of 2010
+- [Arab Spring / Tunisia Jasmine Revolution](../history-politics/arab-spring-tunisia.md) — social media played a key role in the Arab Spring

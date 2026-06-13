@@ -30,3 +30,8 @@ The iPad launch of 2010 established the modern tablet computer as a viable and m
 - [Apple Sells Over 300,000 iPads First Day — Apple Newsroom](https://www.apple.com/newsroom/2010/04/05Apple-Sells-Over-300-000-iPads-First-Day/)
 - [iPad — Smithsonian National Museum of American History](https://americanhistory.si.edu/collections/object/nmah_1456024)
 - [Apple's 2010 iPad launch was the last great Steve Jobs keynote — Fast Company](https://www.fastcompany.com/90455879/apples-2010-ipad-launch-was-the-last-great-steve-jobs-keynote)
+
+## Related
+
+- [The Social Network](../arts-culture/the-social-network.md) — another landmark technology cultural moment of 2010
+- [Affordable Care Act](../society-economics/affordable-care-act.md) — major policy milestone of 2010

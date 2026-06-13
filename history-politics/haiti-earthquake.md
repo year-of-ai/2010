@@ -31,3 +31,8 @@ The earthquake stands as one of the deadliest natural disasters of the twenty-fi
 - [2010 Haiti earthquake — Britannica](https://www.britannica.com/event/2010-Haiti-earthquake)
 - [Haiti: Earthquakes Jan 2010 — ReliefWeb](https://reliefweb.int/disaster/eq-2010-000009-hti)
 - [Massive earthquake strikes Haiti — History.com](https://www.history.com/this-day-in-history/massive-earthquake-strikes-haiti)
+
+## Related
+
+- [Deepwater Horizon Oil Spill](deepwater-horizon-oil-spill.md) — major disaster of 2010
+- [2010 Copiapó Mining Accident and Rescue](chilean-mining-rescue.md) — another 2010 survival and rescue event

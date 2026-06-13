@@ -31,3 +31,8 @@ The spill also galvanized public debate about offshore energy policy, the enviro
 - [Deepwater Horizon oil spill — Britannica](https://www.britannica.com/event/Deepwater-Horizon-oil-spill)
 - [Deepwater Horizon Oil Spill — NOAA Office of Response and Restoration](https://response.restoration.noaa.gov/deepwater-horizon-oil-spill-case-study)
 - [Deepwater Horizon — US EPA Enforcement](https://www.epa.gov/enforcement/deepwater-horizon-bp-gulf-america-oil-spill)
+
+## Related
+
+- [2010 Haiti Earthquake](haiti-earthquake.md) — major humanitarian crisis earlier the same year
+- [Affordable Care Act](../society-economics/affordable-care-act.md) — landmark US policy signed in 2010
