@@ -37,3 +37,4 @@ The Copiapó rescue was an unprecedented international survival and engineering 
 
 - [2010 Haiti Earthquake](haiti-earthquake.md) — major rescue and humanitarian event earlier in 2010
 - [Deepwater Horizon Oil Spill](deepwater-horizon-oil-spill.md) — major industrial disaster of 2010
+- [2010 FIFA World Cup](fifa-world-cup-2010.md) — another 2010 event followed live by a global television audience

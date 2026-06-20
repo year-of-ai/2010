@@ -12,5 +12,6 @@ Articles covering historical events and political developments of 2010.
 | [2010 Copiapó Mining Accident and Rescue](chilean-mining-rescue.md) | A cave-in at the San José mine trapped 33 miners 700 meters underground for 69 days; all were rescued alive on October 13 in a globally watched operation viewed by an estimated 1 billion people. |
 | [2010 Pakistan Floods](pakistan-floods.md) | Unprecedented monsoon flooding from late July inundated about one-fifth of Pakistan, affecting roughly 20 million people and causing over $10 billion in damage in one of the century's largest natural disasters by people affected. |
 | [WikiLeaks Diplomatic Cables Release](wikileaks-cables.md) | WikiLeaks began publishing 251,287 classified U.S. State Department cables on November 28, exposing candid diplomatic assessments worldwide in the largest disclosure of classified U.S. documents to that point. |
+| [2010 FIFA World Cup](fifa-world-cup-2010.md) | The first World Cup staged on the African continent ran from June 11 to July 11 in South Africa; Spain beat the Netherlands 1–0 in the final to win their first title. |
 
 <!-- END GENERATED: category-index -->

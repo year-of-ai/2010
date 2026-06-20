@@ -36,3 +36,5 @@ The spill also galvanized public debate about offshore energy policy, the enviro
 
 - [2010 Haiti Earthquake](haiti-earthquake.md) — major humanitarian crisis earlier the same year
 - [Affordable Care Act](../society-economics/affordable-care-act.md) — landmark US policy signed in 2010
+- [Dodd-Frank Wall Street Reform and Consumer Protection Act](../society-economics/dodd-frank-act.md) — concurrent 2010 regulatory response to a large-scale systemic failure
+- [2010 FIFA World Cup](fifa-world-cup-2010.md) — concurrent global media event during the spill's June–July peak

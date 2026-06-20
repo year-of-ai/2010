@@ -36,3 +36,4 @@ The Affordable Care Act was the most significant expansion of US healthcare cove
 
 - [2010 Haiti Earthquake](../history-politics/haiti-earthquake.md) — major global health crisis of 2010
 - [Deepwater Horizon Oil Spill](../history-politics/deepwater-horizon-oil-spill.md) — another major US policy moment of 2010
+- [Dodd-Frank Wall Street Reform and Consumer Protection Act](dodd-frank-act.md) — signed four months later; together the two laws were the landmark legislative achievements of the 111th Congress

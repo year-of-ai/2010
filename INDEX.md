@@ -18,6 +18,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | 2010 Copiapó Mining Accident and Rescue | [history-politics/chilean-mining-rescue.md](history-politics/chilean-mining-rescue.md) |
 | 2010 Pakistan Floods | [history-politics/pakistan-floods.md](history-politics/pakistan-floods.md) |
 | WikiLeaks Diplomatic Cables Release | [history-politics/wikileaks-cables.md](history-politics/wikileaks-cables.md) |
+| 2010 FIFA World Cup | [history-politics/fifa-world-cup-2010.md](history-politics/fifa-world-cup-2010.md) |
 
 ## Science & Technology
 
@@ -27,6 +28,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 |-------|------|
 | iPad Launch | [science-technology/ipad-launch.md](science-technology/ipad-launch.md) |
 | Instagram Launch | [science-technology/instagram-launch.md](science-technology/instagram-launch.md) |
+| Google Announces Withdrawal from Mainland China | [science-technology/google-china-withdrawal.md](science-technology/google-china-withdrawal.md) |
 
 ## Arts & Culture
 
@@ -43,6 +45,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Topic | File |
 |-------|------|
 | Affordable Care Act | [society-economics/affordable-care-act.md](society-economics/affordable-care-act.md) |
+| Dodd-Frank Wall Street Reform and Consumer Protection Act | [society-economics/dodd-frank-act.md](society-economics/dodd-frank-act.md) |
 
 ## People
 
