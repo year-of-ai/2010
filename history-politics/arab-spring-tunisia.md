@@ -33,6 +33,7 @@ The Tunisian Jasmine Revolution of December 2010–January 2011 was one of the m
 
 ## Related
 
+- [Mohamed Bouazizi — Arab Spring Catalyst](../people/mohamed-bouazizi.md) — the street vendor whose December 17 self-immolation ignited this revolution; 28 days from his act to Ben Ali's flight
 - [WikiLeaks Diplomatic Cables Release](wikileaks-cables.md) — cables exposing Ben Ali government corruption circulated among activists ahead of the Tunisian uprising
 - [2010 Copiapó Mining Accident and Rescue](chilean-mining-rescue.md) — another globally-watched 2010 event
 - [Affordable Care Act](../society-economics/affordable-care-act.md) — landmark legislation signed the same year

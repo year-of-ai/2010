@@ -51,6 +51,10 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 
 [Category index](people/index.md)
 
-No dedicated topic files yet.
+| Topic | File |
+|-------|------|
+| Aung San Suu Kyi — Release from House Arrest | [people/aung-san-suu-kyi.md](people/aung-san-suu-kyi.md) |
+| Corazon Aquino — People Power Legacy and the 2010 Philippine Election | [people/corazon-aquino.md](people/corazon-aquino.md) |
+| Mohamed Bouazizi — Arab Spring Catalyst | [people/mohamed-bouazizi.md](people/mohamed-bouazizi.md) |
 
 <!-- END GENERATED: master-index -->
