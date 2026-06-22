@@ -60,3 +60,4 @@ Her release in November 2010 marked the symbolic end of Myanmar's darkest era of
 - [Mohamed Bouazizi — Arab Spring Catalyst](mohamed-bouazizi.md) — Fellow 2010 symbol of individual resistance to authoritarian systems, though in very different circumstances
 - [Corazon Aquino — Legacy and the 2010 Philippine Elections](corazon-aquino.md) — Parallel figure: a woman whose moral authority against dictatorship became the defining force in her nation's democratic transition
 - [WikiLeaks Diplomatic Cables Release](../history-politics/wikileaks-cables.md) — US diplomatic cables published in 2010 documented international pressure on Myanmar's junta over Aung San Suu Kyi's detention
+- [2010 Thai Political Crisis](../history-politics/2010-thai-political-crisis.md) — parallel Southeast Asian struggle between popular movements and entrenched power in 2010

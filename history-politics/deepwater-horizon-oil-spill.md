@@ -38,3 +38,4 @@ The spill also galvanized public debate about offshore energy policy, the enviro
 - [Affordable Care Act](../society-economics/affordable-care-act.md) — landmark US policy signed in 2010
 - [Dodd-Frank Wall Street Reform and Consumer Protection Act](../society-economics/dodd-frank-act.md) — concurrent 2010 regulatory response to a large-scale systemic failure
 - [2010 FIFA World Cup](fifa-world-cup-2010.md) — concurrent global media event during the spill's June–July peak
+- [Eyjafjallajökull Eruption](eyjafjallajokull-eruption.md) — major environmental disruption the same week in April 2010

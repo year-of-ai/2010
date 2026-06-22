@@ -37,3 +37,4 @@ The earthquake stands as one of the deadliest natural disasters of the twenty-fi
 - [Deepwater Horizon Oil Spill](deepwater-horizon-oil-spill.md) — major disaster of 2010
 - [2010 Pakistan Floods](pakistan-floods.md) — another large-scale 2010 natural disaster with a major international humanitarian response
 - [2010 Copiapó Mining Accident and Rescue](chilean-mining-rescue.md) — another 2010 survival and rescue event
+- [Eyjafjallajökull Eruption](eyjafjallajokull-eruption.md) — another major 2010 natural event with worldwide disruption

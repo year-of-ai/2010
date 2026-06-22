@@ -37,3 +37,4 @@ The Tunisian Jasmine Revolution of December 2010–January 2011 was one of the m
 - [WikiLeaks Diplomatic Cables Release](wikileaks-cables.md) — cables exposing Ben Ali government corruption circulated among activists ahead of the Tunisian uprising
 - [2010 Copiapó Mining Accident and Rescue](chilean-mining-rescue.md) — another globally-watched 2010 event
 - [Affordable Care Act](../society-economics/affordable-care-act.md) — landmark legislation signed the same year
+- [2010 Thai Political Crisis](2010-thai-political-crisis.md) — contemporaneous popular uprising against entrenched political power

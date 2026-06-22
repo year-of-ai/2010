@@ -69,3 +69,4 @@ The international humanitarian response highlighted both the capacity for global
 - [2010 Haiti Earthquake](haiti-earthquake.md) — another major natural disaster of 2010 with large-scale international humanitarian response
 - [Deepwater Horizon Oil Spill](deepwater-horizon-oil-spill.md) — another large-scale 2010 environmental and humanitarian crisis
 - [Arab Spring / Tunisia Jasmine Revolution](arab-spring-tunisia.md) — concurrent 2010 crisis that also drew international attention and government response
+- [Eyjafjallajökull Eruption](eyjafjallajokull-eruption.md) — another major 2010 natural disaster

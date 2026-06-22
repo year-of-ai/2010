@@ -19,6 +19,8 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | 2010 Pakistan Floods | [history-politics/pakistan-floods.md](history-politics/pakistan-floods.md) |
 | WikiLeaks Diplomatic Cables Release | [history-politics/wikileaks-cables.md](history-politics/wikileaks-cables.md) |
 | 2010 FIFA World Cup | [history-politics/fifa-world-cup-2010.md](history-politics/fifa-world-cup-2010.md) |
+| Eyjafjallajökull Eruption | [history-politics/eyjafjallajokull-eruption.md](history-politics/eyjafjallajokull-eruption.md) |
+| 2010 Thai Political Crisis | [history-politics/2010-thai-political-crisis.md](history-politics/2010-thai-political-crisis.md) |
 
 ## Science & Technology
 
@@ -37,6 +39,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Topic | File |
 |-------|------|
 | The Social Network | [arts-culture/the-social-network.md](arts-culture/the-social-network.md) |
+| Inception | [arts-culture/inception.md](arts-culture/inception.md) |
 
 ## Society & Economics
 
