@@ -47,3 +47,4 @@ The film's deliberate ambiguity extended to its closing seconds: Cobb spins a to
 ## Related
 
 - [The Social Network](the-social-network.md) — fellow prestige film of 2010 that shared the awards season with *Inception*
+- [The King's Speech](the-kings-speech.md) — won Best Picture at the 83rd Academy Awards, where *Inception* won four technical Oscars

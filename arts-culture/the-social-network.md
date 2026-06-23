@@ -34,5 +34,5 @@ Critical reception was overwhelmingly positive. The film was nominated for eight
 
 - [iPad Launch](../science-technology/ipad-launch.md) — another technology milestone of 2010
 - [Instagram Launch](../science-technology/instagram-launch.md) — Facebook, the company depicted in the film, would acquire Instagram in 2012
-- [Arab Spring / Tunisia Jasmine Revolution](../history-politics/arab-spring-tunisia.md) — social media played a key role in the Arab Spring
 - [Inception](inception.md) — fellow prestige film of 2010 that shared the early-2011 awards season
+- [The King's Speech](the-kings-speech.md) — the film that defeated *The Social Network* for Best Picture at the 83rd Academy Awards

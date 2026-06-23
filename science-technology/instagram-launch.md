@@ -66,3 +66,4 @@ The $1 billion Facebook acquisition in April 2012 (when Instagram had 13 employe
 
 - [iPad Launch](ipad-launch.md) — launched the same year; the iPad and iPhone 4 were the hardware platform on which Instagram's early growth depended
 - [The Social Network](../arts-culture/the-social-network.md) — the 2010 film depicted the rise of Facebook, which would acquire Instagram two years later
+- [Gliese 581g discovery](gliese-581g-exoplanet.md) — announced in late September 2010, days before Instagram's October launch

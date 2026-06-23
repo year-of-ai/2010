@@ -31,6 +31,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | iPad Launch | [science-technology/ipad-launch.md](science-technology/ipad-launch.md) |
 | Instagram Launch | [science-technology/instagram-launch.md](science-technology/instagram-launch.md) |
 | Google Announces Withdrawal from Mainland China | [science-technology/google-china-withdrawal.md](science-technology/google-china-withdrawal.md) |
+| Gliese 581g Discovery | [science-technology/gliese-581g-exoplanet.md](science-technology/gliese-581g-exoplanet.md) |
 
 ## Arts & Culture
 
@@ -40,6 +41,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 |-------|------|
 | The Social Network | [arts-culture/the-social-network.md](arts-culture/the-social-network.md) |
 | Inception | [arts-culture/inception.md](arts-culture/inception.md) |
+| The King's Speech | [arts-culture/the-kings-speech.md](arts-culture/the-kings-speech.md) |
 
 ## Society & Economics
 
