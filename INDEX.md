@@ -21,6 +21,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | 2010 FIFA World Cup | [history-politics/fifa-world-cup-2010.md](history-politics/fifa-world-cup-2010.md) |
 | Eyjafjallajökull Eruption | [history-politics/eyjafjallajokull-eruption.md](history-politics/eyjafjallajokull-eruption.md) |
 | 2010 Thai Political Crisis | [history-politics/2010-thai-political-crisis.md](history-politics/2010-thai-political-crisis.md) |
+| Deepwater Horizon — Macondo Well Permanently Capped | [history-politics/deepwater-horizon-macondo-well-capped.md](history-politics/deepwater-horizon-macondo-well-capped.md) |
 
 ## Science & Technology
 
@@ -32,6 +33,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Instagram Launch | [science-technology/instagram-launch.md](science-technology/instagram-launch.md) |
 | Google Announces Withdrawal from Mainland China | [science-technology/google-china-withdrawal.md](science-technology/google-china-withdrawal.md) |
 | Gliese 581g Discovery | [science-technology/gliese-581g-exoplanet.md](science-technology/gliese-581g-exoplanet.md) |
+| Kepler-9 Multi-Planet Transiting System | [science-technology/kepler-9-exoplanet-discovery.md](science-technology/kepler-9-exoplanet-discovery.md) |
 
 ## Arts & Culture
 

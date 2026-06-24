@@ -34,6 +34,7 @@ The spill also galvanized public debate about offshore energy policy, the enviro
 
 ## Related
 
+- [Deepwater Horizon — Macondo Well Permanently Capped](deepwater-horizon-macondo-well-capped.md) — the September 19 permanent seal that concluded this spill after the relief-well "bottom kill"
 - [2010 Haiti Earthquake](haiti-earthquake.md) — major humanitarian crisis earlier the same year
 - [Affordable Care Act](../society-economics/affordable-care-act.md) — landmark US policy signed in 2010
 - [Dodd-Frank Wall Street Reform and Consumer Protection Act](../society-economics/dodd-frank-act.md) — concurrent 2010 regulatory response to a large-scale systemic failure
