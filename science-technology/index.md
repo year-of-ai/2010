@@ -11,5 +11,6 @@ Articles covering scientific discoveries and technological developments of 2010.
 | [Google Announces Withdrawal from Mainland China](google-china-withdrawal.md) | On January 12, Google announced it would stop censoring google.cn results after the Operation Aurora intrusion, redirecting to uncensored Hong Kong servers and reshaping debates over censorship and corporate responsibility. |
 | [Gliese 581g Discovery](gliese-581g-exoplanet.md) | On September 29, astronomers announced Gliese 581g, a candidate habitable-zone exoplanet 20.3 light-years away; the widely publicized claim was later disputed and reclassified as unconfirmed. |
 | [Kepler-9 Multi-Planet Transiting System](kepler-9-exoplanet-discovery.md) | Announced August 26 and confirmed August 31, Kepler-9b and Kepler-9c were the first multiple planets observed transiting a single sun-like star, pioneering transit-timing-variation confirmation of planetary masses. |
+| [Stuxnet — First Known Cyber-Physical Weapon](stuxnet.md) | First publicly identified in June 2010, the worm sabotaged Siemens PLCs controlling Iran's Natanz enrichment centrifuges, becoming the first known malware to cause physical destruction of industrial equipment. |
 
 <!-- END GENERATED: category-index -->
