@@ -6,6 +6,7 @@ A chronological index of notable events in the year 2010, drawn from the knowled
 
 | Date | Event | Category | Link |
 |------|-------|----------|------|
+| January 4, 2010 | Burj Khalifa opens — Dubai inaugurates the world's tallest building at 828 metres, surpassing Taipei 101 and redefining the limits of skyscraper engineering | Science & Technology | [details](science-technology/burj-khalifa.md) |
 | January 12, 2010 | Haiti earthquake — magnitude 7.0 quake near Port-au-Prince kills an estimated 100,000–316,000 people | History & Politics | [details](history-politics/haiti-earthquake.md) |
 | January 12, 2010 | Google announces withdrawal from China — Google announces it will stop censoring search results in China, redirecting to Hong Kong servers | Science & Technology | [details](science-technology/google-china-withdrawal.md) |
 | February 27, 2010 | 2010 Chile earthquake — magnitude 8.8 megathrust quake and Pacific tsunami off the Maule coast kill 525 people; one of the strongest earthquakes ever instrumentally recorded | History & Politics | [details](history-politics/2010-chile-earthquake.md) |
@@ -13,6 +14,7 @@ A chronological index of notable events in the year 2010, drawn from the knowled
 | April 3, 2010 | iPad launched — Apple releases the iPad, establishing the modern tablet computing category and selling 15 million units in its first year | Science & Technology | [details](science-technology/ipad-launch.md) |
 | April 14, 2010 | Eyjafjallajökull eruption — Iceland's Eyjafjallajökull volcano erupts, closing most European airspace and cancelling roughly 104,000 flights over six days | History & Politics | [details](history-politics/eyjafjallajokull-eruption.md) |
 | April 20, 2010 | Deepwater Horizon explosion — Blowout and explosion on BP's Deepwater Horizon rig kills 11 workers, beginning the largest marine oil spill in history | History & Politics | [details](history-politics/deepwater-horizon-oil-spill.md) |
+| May 2, 2010 | European sovereign debt crisis — euro-area states and the IMF agree a €110 billion bailout for Greece, then a €750 billion eurozone backstop on May 9–10, opening the acute phase of the crisis | Society & Economics | [details](society-economics/european-sovereign-debt-crisis.md) |
 | May 10, 2010 | 2010 Philippine presidential election — Benigno Aquino III wins on the strength of his mother Corazon Aquino's People Power legacy | People | [details](people/corazon-aquino.md) |
 | May 19, 2010 | 2010 Thai political crisis — Military crackdown ends a two-month Red Shirt occupation of Bangkok, killing at least 91 people and wounding over 1,800 | History & Politics | [details](history-politics/2010-thai-political-crisis.md) |
 | June 11 – July 11, 2010 | FIFA World Cup in South Africa — First World Cup held on the African continent; Spain wins their first title | History & Politics | [details](history-politics/fifa-world-cup-2010.md) |

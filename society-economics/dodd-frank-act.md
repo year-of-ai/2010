@@ -54,6 +54,7 @@ Dodd-Frank created an implementation challenge of historic scale: the legislatio
 
 - [Affordable Care Act](affordable-care-act.md) — signed by President Obama in March 2010, four months before Dodd-Frank; the two laws together represented the most significant legislative achievements of the 111th Congress
 - [Deepwater Horizon Oil Spill](../history-politics/deepwater-horizon-oil-spill.md) — simultaneous 2010 crisis that, alongside Dodd-Frank, reflected the Obama administration's engagement with regulatory failures exposed by large-scale systemic disasters
+- [European Sovereign Debt Crisis and the First Greek Bailout](european-sovereign-debt-crisis.md) — the parallel 2010 chapter of the post-2008 financial reckoning, addressed in Europe through sovereign rescues rather than domestic regulatory reform
 
 ## Sources
 

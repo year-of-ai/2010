@@ -36,6 +36,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Gliese 581g Discovery | [science-technology/gliese-581g-exoplanet.md](science-technology/gliese-581g-exoplanet.md) |
 | Kepler-9 Multi-Planet Transiting System | [science-technology/kepler-9-exoplanet-discovery.md](science-technology/kepler-9-exoplanet-discovery.md) |
 | Stuxnet — First Known Cyber-Physical Weapon | [science-technology/stuxnet.md](science-technology/stuxnet.md) |
+| Burj Khalifa Opening | [science-technology/burj-khalifa.md](science-technology/burj-khalifa.md) |
 
 ## Arts & Culture
 
@@ -55,6 +56,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 |-------|------|
 | Affordable Care Act | [society-economics/affordable-care-act.md](society-economics/affordable-care-act.md) |
 | Dodd-Frank Wall Street Reform and Consumer Protection Act | [society-economics/dodd-frank-act.md](society-economics/dodd-frank-act.md) |
+| European Sovereign Debt Crisis and the First Greek Bailout | [society-economics/european-sovereign-debt-crisis.md](society-economics/european-sovereign-debt-crisis.md) |
 
 ## People
 
