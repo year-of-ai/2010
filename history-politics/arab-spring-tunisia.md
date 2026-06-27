@@ -19,6 +19,34 @@ On January 14, 2011 — 28 days after Bouazizi's self-immolation — Ben Ali fle
 
 The Tunisian revolution — dubbed the "Jasmine Revolution" in international media — served as the catalyst and the archetype for a wider wave of uprisings across the Arab world in 2011, collectively known as the Arab Spring. Within weeks of Ben Ali's departure, mass protests erupted in Egypt, Libya, Bahrain, Syria, and Yemen, reshaping the politics of the Middle East and North Africa for the following decade.
 
+## Ben Ali's Tunisia: The Context for Revolution
+
+Zine el Abidine Ben Ali had ruled Tunisia since November 7, 1987 — 23 years by the time of Bouazizi's self-immolation — having assumed power in a medical coup that ousted the aging Habib Bourguiba. His government maintained stability through a sophisticated security apparatus, the omnipresent Rassemblement Constitutionnel Démocratique (RCD) party machine, systematic co-optation of elites, and repression of Islamist political movements. Tunisia's coastal cities and tourist zones saw meaningful economic development, and the country maintained relatively high literacy rates and women's rights compared with regional peers — facts that Ben Ali's government advertised internationally.
+
+Behind this façade, however, structural inequalities between the developed coast and the interior were severe. Interior towns like Sidi Bouzid had some of Tunisia's highest unemployment rates, with youth unemployment approaching 30 percent. The presidential family and inner circle — including Ben Ali's wife Leila Trabelsi and the Trabelsi clan — were widely understood to dominate business sectors ranging from banking and automotive imports to media and real estate through a system of kickbacks, forced partnerships, and arbitrary regulatory action. WikiLeaks diplomatic cables released in late November 2010 — specifically a July 2009 cable from the U.S. Embassy in Tunis, circulated widely on social media in December 2010 — described this system with unusual frankness: "Tunisia is a police state, with little freedom of expression or association, and serious human rights problems," and documented the Trabelsi family's pervasive corruption.
+
+## The Protests: A 28-Day Timeline
+
+The uprising unfolded with remarkable speed once it began:
+
+- **December 17, 2010**: Bouazizi's self-immolation at approximately 11:30 AM outside the Sidi Bouzid regional government building. Protests begin the same afternoon in Sidi Bouzid's town square.
+- **December 18–22**: Protests in Sidi Bouzid are met with security force intervention; demonstrators throw Molotov cocktails at the regional government building. Videos of the unrest are uploaded to Facebook and picked up by Al Jazeera Arabic, giving the events a national and international audience that bypasses Tunisian state media.
+- **December 24**: An 18-year-old protester, Mohamed Ammari, is shot and killed by police in Menzel Bouzaïane — the first confirmed death of the uprising.
+- **December 28**: Ben Ali visits the badly burned Bouazizi at the hospital and is photographed beside him — a gesture widely interpreted as an attempt to defuse tensions. Bouazizi dies 7 days later on January 4.
+- **January 3–4, 2011**: Lawyers' and journalists' unions stage protests in Tunis, bringing the unrest to the capital for the first time.
+- **January 8–10**: Security forces fire live ammunition into crowds in Kasserine and Thala; at least 21 people are killed over three days, galvanizing the protests nationally.
+- **January 11**: Ben Ali promises 300,000 new jobs; protests continue.
+- **January 13**: Ben Ali addresses the nation in a televised speech, speaking in the Tunisian dialect for the first time, promising he will not seek another term in 2014 and pledging press freedom. Crowds continue to gather.
+- **January 14, 2011**: Ben Ali dismisses his cabinet, declares a state of emergency, and imposes a curfew; by evening he and his family have boarded a plane and left Tunisia. Prime Minister Mohammed Ghannouchi announces he is assuming power. Ben Ali lands in Saudi Arabia, where he will remain in exile until his death in September 2019.
+
+## Social Media's Role
+
+The Tunisian uprising was the first revolution in which Facebook played a structurally significant role in organizing and amplifying protest. Tunisia had approximately 2 million Facebook users in late 2010 — a high penetration rate relative to internet access in a country with about 10 million people. State television and newspapers, tightly controlled under Ben Ali, ignored or minimized the Sidi Bouzid protests in the days following Bouazizi's self-immolation. Facebook filled this information vacuum: mobile phone videos of the protests, of security force violence, and of funerals for killed demonstrators were shared widely on the platform and then picked up by Al Jazeera Arabic, which broadcast them to an audience spanning the Arab world. This loop — local mobile footage → Facebook → Al Jazeera → broader audience — circumvented state media control more effectively than any prior protest movement.
+
+Twitter also played a role, primarily among international journalists and the Tunisian diaspora, who tracked events using the hashtag #sidibouzid. The WikiLeaks cables documenting Ben Ali government corruption added documented evidence to what Tunisians already understood anecdotally, providing activists with specific, sourced material to share alongside protest footage.
+
+Security scholars have debated the degree to which social media "caused" the revolution, noting that the structural conditions — unemployment, corruption, authoritarian rule, economic exclusion of the interior — were the primary drivers, and that social media accelerated the velocity of the uprising rather than creating its underlying energy. This nuance became important as similar uprisings in Libya, Egypt, Syria, and Bahrain unfolded with access to the same social media platforms but very different outcomes.
+
 ## Significance
 
 The Tunisian Jasmine Revolution of December 2010–January 2011 was one of the most consequential political events of the early twenty-first century. It demonstrated that entrenched authoritarian regimes in the Arab world were vulnerable to popular pressure, fundamentally altered Western and regional assumptions about the durability of such governments, and set off a chain reaction of uprisings — the Arab Spring — that reshaped the geopolitical landscape of the Middle East and North Africa. Tunisia's revolution is widely regarded as the only Arab Spring uprising to have successfully produced a democratic transition, though that democracy faced subsequent challenges. The event also highlighted the role of social media — particularly Facebook and Twitter — in organizing and publicizing protest movements, establishing a template for digital-era political mobilization.
