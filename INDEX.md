@@ -23,6 +23,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | 2010 Thai Political Crisis | [history-politics/2010-thai-political-crisis.md](history-politics/2010-thai-political-crisis.md) |
 | Deepwater Horizon — Macondo Well Permanently Capped | [history-politics/deepwater-horizon-macondo-well-capped.md](history-politics/deepwater-horizon-macondo-well-capped.md) |
 | 2010 Chile Earthquake | [history-politics/2010-chile-earthquake.md](history-politics/2010-chile-earthquake.md) |
+| 2010 Winter Olympics (Vancouver) | [history-politics/2010-winter-olympics-vancouver.md](history-politics/2010-winter-olympics-vancouver.md) |
 
 ## Science & Technology
 
@@ -47,6 +48,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | The Social Network | [arts-culture/the-social-network.md](arts-culture/the-social-network.md) |
 | Inception | [arts-culture/inception.md](arts-culture/inception.md) |
 | The King's Speech | [arts-culture/the-kings-speech.md](arts-culture/the-kings-speech.md) |
+| Avatar — Highest-Grossing Film and 3D Cinema Revolution | [arts-culture/avatar.md](arts-culture/avatar.md) |
 
 ## Society & Economics
 

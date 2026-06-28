@@ -46,6 +46,7 @@ The 2010 World Cup also became a touchstone for debates about summer scheduling,
 
 - [2010 Copiapó Mining Accident and Rescue](chilean-mining-rescue.md) — another 2010 event that drew global attention across 69 days of international television coverage
 - [Deepwater Horizon Oil Spill](deepwater-horizon-oil-spill.md) — concurrent 2010 crisis that competed for global media attention during the June–July tournament period
+- [2010 Winter Olympics (Vancouver)](2010-winter-olympics-vancouver.md) — the year's other major international sporting event, held in February, which likewise drew record global viewership
 
 ## Sources
 
