@@ -47,7 +47,23 @@ The May 10, 2010 Philippine presidential election was notable for using automate
 - **Joseph Estrada (Pwersa ng Masang Pilipino)**: 9,487,837 votes — 26.3 percent
 - **Manuel Villar (Nacionalista Party)**: 5,573,835 votes — 15.4 percent
 
-The margin — more than 5 million votes over the second-place finisher — was large by Philippine standards and was seen as a genuine mandate rooted in Cory's legacy. Noynoy Aquino was inaugurated on June 30, 2010, delivering an address explicitly invoking his mother's sacrifice and his parents' fight for democracy. He served the full constitutional single term of six years (2010–2016).
+The margin — more than 5 million votes over the second-place finisher — was large by Philippine standards and was seen as a genuine mandate rooted in Cory's legacy. Noynoy Aquino was inaugurated on June 30, 2010, delivering an address explicitly invoking his mother's sacrifice and his parents' fight for democracy.
+
+Noynoy Aquino's presidency (2010–2016) was organized around the campaign slogan *daang matuwid* ("the straight path") — an explicit anti-corruption platform that directly echoed his parents' moral authority. His administration secured the impeachment and conviction of Supreme Court Chief Justice Renato Corona in 2012 on charges of failing to accurately disclose his assets — the first successful impeachment of a chief justice in Philippine history. The Philippine economy achieved GDP growth rates of 6–7 percent annually through most of his term, driven by business process outsourcing, overseas remittances, and infrastructure investment. He served the full constitutional single term, leaving office on June 30, 2016 — again, a demonstration of the Aquino tradition of voluntarily relinquishing power within constitutional limits that his mother had established in 1992.
+
+## Women's Leadership in Democratic Transitions
+
+Corazon Aquino's role in the People Power Revolution and her subsequent presidency occurred in a historical moment when women's leadership in anti-authoritarian struggle was exceptional. Though the Philippines in 2010 had a long history of female political participation — dating to the Suffragist movement of the early 20th century — democratic transitions in Eastern Europe (1989–1991), Latin America (1980s), and Asia were predominantly led by men. Cory Aquino was thus an outlier: a woman who became the face of nonviolent resistance, who negotiated the transition to democracy, and who exercised executive power in her own right rather than as a substitute for a male family member.
+
+Her presidency (1986–1992) demonstrated that women could navigate the complex institutional and security challenges of post-authoritarian consolidation. She faced military coup attempts from Marcos loyalists, managed economic recovery under structural adjustment, and navigated the fallout from the 1991 Mount Pinatubo eruption — crises that tested executive competence regardless of gender. By stepping down voluntarily in 1992, she reinforced a norm of constitutional term limits and peaceful power transfer — norms that were far from universal in the Asia-Pacific region and that her example helped entrench.
+
+The 2010 Philippine presidential election, catalyzed by Cory's death, thus represented not merely a personal family triumph but a validation of women's leadership in democratic politics. It occurred in a global context in which female heads of state remained rare; Cory's legacy as a successful democratic leader offered a precedent and a symbol that the Philippines could draw on and that inspired democratic reformers across Asia and beyond.
+
+## Global Democratic Legacy
+
+Corazon Aquino remains a canonical figure in the global history of nonviolent democratic transition. Academic studies of civil resistance and regime change — particularly the work of Erica Chenoweth on nonviolent campaigns — identified the People Power Revolution as a landmark case in demonstrating that mass nonviolent action could topple even a well-entrenched authoritarian system with military backing. Her leadership alongside Cardinal Sin, the business community (the Makati Business Club), and the Catholic Church showed that diverse constituencies could coalesce around a shared democratic vision.
+
+The People Power Revolution's international resonance — its invocation in the context of later democratic uprisings in Myanmar, Hong Kong, and elsewhere — attributed significant symbolic weight to the Aquino family's sacrifice and Cory's embodiment of democratic virtue. Her death in 2009 and the 2010 election that her memory produced were thus not parochial Philippine phenomena but part of a global conversation about democratic resilience, the power of moral authority, and the possibility of political transformation through peaceful mass action.
 
 ## Significance
 
@@ -65,6 +81,6 @@ More broadly, Corazon Aquino's life stood as proof that nonviolent popular movem
 ## Related
 
 - [Mohamed Bouazizi — Arab Spring Catalyst](mohamed-bouazizi.md) — Parallel figure: a person whose personal sacrifice against an authoritarian system became the catalyst for mass democratic upheaval in 2010
-- [Aung San Suu Kyi — Release from House Arrest](aung-san-suu-kyi.md) — Another 2010 female democracy icon whose resistance to military dictatorship defined her era
-- [Arab Spring / Tunisia Jasmine Revolution](../history-politics/arab-spring-tunisia.md) — The 2010–2011 wave of democratic uprisings that echoes the People Power Revolution model Cory embodied
+- [Aung San Suu Kyi — Release from House Arrest](aung-san-suu-kyi.md) — Another 2010 female democracy icon whose resistance to military dictatorship defined her era; released from house arrest on November 13, 2010, just months after Noynoy Aquino's election
+- [Arab Spring / Tunisia Jasmine Revolution](../history-politics/arab-spring-tunisia.md) — The 2010–2011 wave of democratic uprisings that echoes the People Power Revolution model Cory embodied; several Arab Spring organizers explicitly cited the Philippine People Power Revolution as an inspiration
 - [WikiLeaks Diplomatic Cables Release](../history-politics/wikileaks-cables.md) — 2010 release of documents exposing how authoritarian governments concealed corruption, a theme central to both the Marcos and Ben Ali eras

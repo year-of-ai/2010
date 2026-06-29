@@ -34,9 +34,23 @@ The austerity conditions provoked widespread anger in Greece. On 5 May 2010 trad
 
 The Greek package failed to halt market contagion to other vulnerable members, notably Portugal, Spain, and Ireland. Over the weekend of 9–10 May 2010 the Economic and Financial Affairs Council (Ecofin) agreed an emergency stabilisation mechanism. Its centrepiece was the European Financial Stability Facility, a special-purpose vehicle incorporated in Luxembourg and backed by guarantees from euro-area governments, with a lending capacity of up to €440 billion and an initial three-year mandate. The EFSF could be combined with up to €60 billion from the European Financial Stabilisation Mechanism — funds the European Commission could raise against the EU budget — and up to €250 billion from the IMF, producing a headline figure of €750 billion. In parallel, the European Central Bank launched its Securities Markets Programme to purchase eurozone government bonds on the secondary market, its first major departure from orthodox monetary policy during the crisis.
 
+## The European Central Bank's Role
+
+The European Central Bank's interventions during 2010 marked the first major departures from the monetary orthodoxy that had governed the ECB since its founding in 1998. Under President Jean-Claude Trichet, the ECB had previously resisted any suggestion that it might purchase sovereign debt, viewing such interventions as fiscal policy beyond its mandate and potentially inflationary. The Greek crisis forced a reconsideration.
+
+On May 10, 2010 — the same weekend the €750 billion backstop was announced — the ECB launched its **Securities Markets Programme (SMP)**, under which it purchased eurozone government bonds on the secondary market to reduce borrowing costs for stressed sovereigns. Between May 2010 and late 2011, the ECB purchased approximately €219 billion in bonds — primarily Greek, Irish, Portuguese, Spanish, and Italian debt — sterilizing each purchase to prevent an expansion of the money supply and maintain the pretense that monetary policy was unchanged. The SMP was controversial within the ECB's governing council: German Bundesbank President Axel Weber and ECB Chief Economist Jürgen Stark both publicly dissented and eventually resigned over it.
+
+The ECB also maintained exceptionally loose liquidity conditions for eurozone banks through its long-term refinancing operations (LTROs), allowing banks to borrow unlimited amounts from the ECB at the benchmark rate (lowered to 1 percent in May 2009 and held at that level throughout 2010, before two increases in 2011 that were later reversed) for up to twelve months. This provided critical support to banks in Greece, Ireland, and Spain whose access to private funding markets had been severely curtailed. The ECB's expanded role in 2010 laid the groundwork for Mario Draghi's far more powerful intervention in July 2012 — when, as the new ECB president, he promised to do "whatever it takes" to preserve the euro — and the subsequent Outright Monetary Transactions (OMT) programme that effectively ended the acute phase of the debt crisis.
+
 ## Contagion: Ireland
 
 The backstop did not end the crisis. Ireland's banking system, crippled by losses from a collapsed property bubble that the state had guaranteed, drove the country's deficit to extraordinary levels in 2010. On 28–29 November 2010, Ireland became the second euro-area member to seek a rescue, agreeing an €85 billion programme that combined EU and IMF funds with Ireland's own reserves. Portugal would follow in 2011, and Greece would require a second programme in 2012, by which time the EFSF was being superseded by the permanent European Stability Mechanism.
+
+## Political Repercussions and Rise of Euroskeptic Movements
+
+The austerity-driven social unrest visible in Greece's May 5, 2010 general strike and the Marfin bank arson foreshadowed a decade of political upheaval across the eurozone periphery. In the immediate aftermath of the 2010 crisis, established centrist parties in Greece, Ireland, Spain, and Portugal experienced historic electoral defeats as voters rejected the "Troika" prescriptions and the political elites who had negotiated them. In Greece, Alexis Tsipras's far-left Syriza party — a marginal force in 2010 — rose to become the dominant opposition by 2012 and won the 2015 general election on an explicitly anti-austerity platform. In Spain, the indignados movement (May 15 Movement) emerged in 2011, capturing widespread frustration with unemployment (which reached 25 percent by 2013) and giving birth to Podemos, a new left-wing party that won 20 percent of the vote by 2015.
+
+The crisis also fuelled the growth of far-right Euroskeptic movements across northern and southern Europe. In Denmark, the Danish People's Party surged on anti-immigration and anti-integration platforms; in Hungary and Poland, nationalist governments came to power partly by channeling resentment of the EU's fiscal and institutional demands. The notion that European integration had enriched elites while impoverishing workers, and that the euro had entrenched this inequality, gained traction across the political spectrum. The 2010 crisis thus set in motion a decade-long erosion of centrist pro-integration consensus that would culminate in Brexit (2016), the election of Trump in the United States, and the broader wave of populism that reshaped Western politics in the mid-to-late 2010s.
 
 ## Significance
 
@@ -50,8 +64,10 @@ The events of 2010 transformed a national fiscal scandal into a structural crisi
 
 ## Sources
 
-- Wikipedia: [European debt crisis](https://en.wikipedia.org/wiki/European_debt_crisis)
-- Wikipedia: [First Economic Adjustment Programme for Greece](https://en.wikipedia.org/wiki/First_Economic_Adjustment_Programme_for_Greece)
-- European Stability Mechanism: [The €750 billion weekend: the EFSF is born](https://www.esm.europa.eu/publications/safeguarding-euro/%E2%82%AC750-billion-weekend-efsf-born)
-- European Stability Mechanism: [Financial assistance to Greece](https://www.esm.europa.eu/assistance/greece)
-- WBUR / NPR: [Riots Erupt In Athens As 3 Bank Workers Killed](https://www.wbur.org/news/2010/05/05/greece-riots)
+- [European debt crisis — Wikipedia](https://en.wikipedia.org/wiki/European_debt_crisis) — comprehensive encyclopedic overview covering origins, contagion, institutional responses, and political repercussions.
+- [First Economic Adjustment Programme for Greece — Wikipedia](https://en.wikipedia.org/wiki/First_Economic_Adjustment_Programme_for_Greece) — detailed account of the €110 billion bailout terms, austerity conditionality, and implementation.
+- [European debt crisis — Britannica](https://www.britannica.com/event/European-debt-crisis) — authoritative specialist overview of the crisis from Greece's deficit revelation through the eurozone's structural reforms.
+- [The €750 billion weekend: the EFSF is born — European Stability Mechanism](https://www.esm.europa.eu/publications/safeguarding-euro/%E2%82%AC750-billion-weekend-efsf-born) — first-hand institutional account of the May 9–10, 2010 emergency meeting and creation of the EFSF backstop.
+- [Financial assistance to Greece — European Stability Mechanism](https://www.esm.europa.eu/assistance/greece) — official ESM record of Greece's three programme amounts, conditions, and disbursement timeline.
+- [Securities Markets Programme — European Central Bank](https://www.ecb.europa.eu/mopo/implement/smp/html/index.en.html) — ECB's official description of the SMP, launched May 10, 2010; key primary source for the ECB's unprecedented bond-purchase intervention.
+- [Riots Erupt In Athens As 3 Bank Workers Killed — WBUR / NPR](https://www.wbur.org/news/2010/05/05/greece-riots) — contemporaneous news account of the May 5, 2010 general strike violence, including the Marfin bank fire deaths.
