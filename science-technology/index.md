@@ -13,5 +13,6 @@ Articles covering scientific discoveries and technological developments of 2010.
 | [Kepler-9 Multi-Planet Transiting System](kepler-9-exoplanet-discovery.md) | Announced August 26 and confirmed August 31, Kepler-9b and Kepler-9c were the first multiple planets observed transiting a single sun-like star, pioneering transit-timing-variation confirmation of planetary masses. |
 | [Stuxnet — First Known Cyber-Physical Weapon](stuxnet.md) | First publicly identified in June 2010, the worm sabotaged Siemens PLCs controlling Iran's Natanz enrichment centrifuges, becoming the first known malware to cause physical destruction of industrial equipment. |
 | [Burj Khalifa Opening](burj-khalifa.md) | Dubai inaugurated the Burj Khalifa on January 4 as the world's tallest building at 828 metres, a structural-engineering landmark whose buttressed-core design redefined the limits of supertall construction. |
+| [First Self-Replicating Synthetic Cell (JCVI-syn1.0)](synthetic-cell-jcvi-syn1.md) | On May 20, the J. Craig Venter Institute announced JCVI-syn1.0, the first cell controlled by a chemically synthesized 1.08-million-base-pair genome, a landmark proof of concept for synthetic biology. |
 
 <!-- END GENERATED: category-index -->

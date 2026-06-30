@@ -24,6 +24,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Deepwater Horizon — Macondo Well Permanently Capped | [history-politics/deepwater-horizon-macondo-well-capped.md](history-politics/deepwater-horizon-macondo-well-capped.md) |
 | 2010 Chile Earthquake | [history-politics/2010-chile-earthquake.md](history-politics/2010-chile-earthquake.md) |
 | 2010 Winter Olympics (Vancouver) | [history-politics/2010-winter-olympics-vancouver.md](history-politics/2010-winter-olympics-vancouver.md) |
+| Smolensk Air Disaster | [history-politics/smolensk-air-disaster.md](history-politics/smolensk-air-disaster.md) |
 
 ## Science & Technology
 
@@ -38,6 +39,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Kepler-9 Multi-Planet Transiting System | [science-technology/kepler-9-exoplanet-discovery.md](science-technology/kepler-9-exoplanet-discovery.md) |
 | Stuxnet — First Known Cyber-Physical Weapon | [science-technology/stuxnet.md](science-technology/stuxnet.md) |
 | Burj Khalifa Opening | [science-technology/burj-khalifa.md](science-technology/burj-khalifa.md) |
+| First Self-Replicating Synthetic Cell (JCVI-syn1.0) | [science-technology/synthetic-cell-jcvi-syn1.md](science-technology/synthetic-cell-jcvi-syn1.md) |
 
 ## Arts & Culture
 
