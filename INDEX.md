@@ -40,6 +40,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Stuxnet — First Known Cyber-Physical Weapon | [science-technology/stuxnet.md](science-technology/stuxnet.md) |
 | Burj Khalifa Opening | [science-technology/burj-khalifa.md](science-technology/burj-khalifa.md) |
 | First Self-Replicating Synthetic Cell (JCVI-syn1.0) | [science-technology/synthetic-cell-jcvi-syn1.md](science-technology/synthetic-cell-jcvi-syn1.md) |
+| Microsoft Kinect for Xbox 360 Launch | [science-technology/kinect-launch.md](science-technology/kinect-launch.md) |
 
 ## Arts & Culture
 
@@ -71,5 +72,6 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Aung San Suu Kyi — Release from House Arrest | [people/aung-san-suu-kyi.md](people/aung-san-suu-kyi.md) |
 | Corazon Aquino — People Power Legacy and the 2010 Philippine Election | [people/corazon-aquino.md](people/corazon-aquino.md) |
 | Mohamed Bouazizi — Arab Spring Catalyst | [people/mohamed-bouazizi.md](people/mohamed-bouazizi.md) |
+| LeBron James' "The Decision" | [people/lebron-james-the-decision.md](people/lebron-james-the-decision.md) |
 
 <!-- END GENERATED: master-index -->
