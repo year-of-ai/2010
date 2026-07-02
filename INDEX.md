@@ -25,6 +25,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | 2010 Chile Earthquake | [history-politics/2010-chile-earthquake.md](history-politics/2010-chile-earthquake.md) |
 | 2010 Winter Olympics (Vancouver) | [history-politics/2010-winter-olympics-vancouver.md](history-politics/2010-winter-olympics-vancouver.md) |
 | Smolensk Air Disaster | [history-politics/smolensk-air-disaster.md](history-politics/smolensk-air-disaster.md) |
+| 2010 United States Midterm Elections | [history-politics/2010-us-midterm-elections.md](history-politics/2010-us-midterm-elections.md) |
 
 ## Science & Technology
 
@@ -52,6 +53,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Inception | [arts-culture/inception.md](arts-culture/inception.md) |
 | The King's Speech | [arts-culture/the-kings-speech.md](arts-culture/the-kings-speech.md) |
 | Avatar — Highest-Grossing Film and 3D Cinema Revolution | [arts-culture/avatar.md](arts-culture/avatar.md) |
+| Toy Story 3 | [arts-culture/toy-story-3.md](arts-culture/toy-story-3.md) |
 
 ## Society & Economics
 

@@ -19,5 +19,6 @@ Articles covering historical events and political developments of 2010.
 | [2010 Chile Earthquake](2010-chile-earthquake.md) | A magnitude 8.8 megathrust earthquake and Pacific tsunami struck off the Maule coast on February 27, killing 525 people — among the strongest earthquakes ever instrumentally recorded, yet contained by Chile's rigorous building codes. |
 | [2010 Winter Olympics (Vancouver)](2010-winter-olympics-vancouver.md) | Canada hosted the Winter Games on February 12–28 and became the first host nation to top the gold-medal count with a record 14 golds; Sidney Crosby's overtime goal won men's hockey gold before 114 million viewers worldwide. |
 | [Smolensk Air Disaster](smolensk-air-disaster.md) | A Polish Air Force Tu-154 crashed in dense fog near Smolensk on April 10, killing all 96 aboard — including President Lech Kaczyński and his wife — en route to commemorate the Katyn massacre, eliminating much of Poland's senior leadership. |
+| [2010 United States Midterm Elections](2010-us-midterm-elections.md) | Republicans gained 63 House seats on November 2 — the largest swing since 1948 — retaking the chamber, while the Tea Party movement reshaped the Republican Party and the decade's political trajectory. |
 
 <!-- END GENERATED: category-index -->

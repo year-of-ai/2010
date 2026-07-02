@@ -10,5 +10,6 @@ Articles covering arts, film, music, and cultural developments of 2010.
 | [Inception](inception.md) | Christopher Nolan's science-fiction thriller premiered on July 16, grossing about $839 million worldwide and winning four Academy Awards in a landmark of ambitious blockbuster filmmaking. |
 | [The King's Speech](the-kings-speech.md) | Tom Hooper's historical drama premiered September 6, grossing about $414 million worldwide and winning four Academy Awards, becoming the most successful independent British film ever released. |
 | [Avatar](avatar.md) | James Cameron's science-fiction epic surpassed *Titanic* on January 25 to become the highest-grossing film of all time; its native 3D presentation drove the modern 3D cinema boom. |
+| [Toy Story 3](toy-story-3.md) | Pixar's animated sequel opened on June 18, grossing $1.067 billion worldwide to become the highest-grossing film of 2010 and the first animated feature to surpass $1 billion, then winning the Academy Award for Best Animated Feature. |
 
 <!-- END GENERATED: category-index -->
