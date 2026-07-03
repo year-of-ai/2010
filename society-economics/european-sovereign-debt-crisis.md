@@ -61,6 +61,7 @@ The events of 2010 transformed a national fiscal scandal into a structural crisi
 - [Dodd-Frank Wall Street Reform and Consumer Protection Act](dodd-frank-act.md) — the contemporaneous U.S. response to the 2008 financial crisis; together the two reflected how the 2008 collapse continued to reverberate through sovereign and banking systems in 2010
 - [Burj Khalifa](../science-technology/burj-khalifa.md) — opened in January 2010 after Abu Dhabi rescued debt-laden Dubai, a parallel example of how the post-2008 debt reckoning reshaped 2010
 - [Affordable Care Act](affordable-care-act.md) — the other landmark 2010 economic-policy measure, enacted as the U.S. and Europe pursued divergent fiscal responses to the downturn
+- [Global Unemployment and Economic Recovery of 2010](global-unemployment-and-economic-recovery-2010.md) — the eurozone's 10.1% unemployment and the austerity-vs-stimulus divide were the direct labour-market backdrop to the sovereign bailouts
 
 ## Sources
 

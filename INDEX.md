@@ -64,6 +64,8 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Affordable Care Act | [society-economics/affordable-care-act.md](society-economics/affordable-care-act.md) |
 | Dodd-Frank Wall Street Reform and Consumer Protection Act | [society-economics/dodd-frank-act.md](society-economics/dodd-frank-act.md) |
 | European Sovereign Debt Crisis and the First Greek Bailout | [society-economics/european-sovereign-debt-crisis.md](society-economics/european-sovereign-debt-crisis.md) |
+| Global Unemployment and Economic Recovery of 2010 | [society-economics/global-unemployment-and-economic-recovery-2010.md](society-economics/global-unemployment-and-economic-recovery-2010.md) |
+| Shanghai Expo 2010 | [society-economics/shanghai-expo-2010.md](society-economics/shanghai-expo-2010.md) |
 
 ## People
 
