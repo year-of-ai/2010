@@ -88,6 +88,6 @@ The film's success prompted:
 ## Related
 
 - [Inception (July 16, 2010)](inception.md) — Christopher Nolan's competing 2010 blockbuster that also pushed technical cinema boundaries, winning four Academy Awards at the 83rd ceremony.
-- [The Social Network (October 1, 2010)](the-social-network.md) — Awards-season competitor; David Fincher's film won Best Director at the Golden Globes, making it a rival to Avatar's legacy in the prestige-film conversation.
+- [3D Cinema Revolution](3d-cinema-revolution.md) — the industry-wide 3D adoption wave that *Avatar* catalyzed through 2010, from theater retrofits to consumer 3DTVs.
 - [The King's Speech (September 6, 2010)](the-kings-speech.md) — Won Best Picture at the 83rd Academy Awards (for 2010 films); frequently compared as the type of intimate drama that dominates Oscars when spectacle films like Avatar fail.
 - [iPad Launch (January 27, 2010)](../science-technology/ipad-launch.md) — Launched the same month Avatar topped the box-office record, together symbolizing 2010 as a year of competing visions for premium media experience: immersive cinema vs. portable personal screens.

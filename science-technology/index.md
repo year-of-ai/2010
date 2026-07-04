@@ -15,5 +15,6 @@ Articles covering scientific discoveries and technological developments of 2010.
 | [Burj Khalifa Opening](burj-khalifa.md) | Dubai inaugurated the Burj Khalifa on January 4 as the world's tallest building at 828 metres, a structural-engineering landmark whose buttressed-core design redefined the limits of supertall construction. |
 | [First Self-Replicating Synthetic Cell (JCVI-syn1.0)](synthetic-cell-jcvi-syn1.md) | On May 20, the J. Craig Venter Institute announced JCVI-syn1.0, the first cell controlled by a chemically synthesized 1.08-million-base-pair genome, a landmark proof of concept for synthetic biology. |
 | [Microsoft Kinect for Xbox 360 Launch](kinect-launch.md) | Microsoft released the controller-free Kinect motion sensor on November 4, setting a Guinness record as the fastest-selling consumer electronics device and bringing depth-sensing into mainstream homes. |
+| [iPhone 4 Launch and Retina Display](iphone-4-launch.md) | Apple released the iPhone 4 on June 24 with a 326 ppi Retina display, a glass-and-steel design, dual cameras, FaceTime, and its first in-house A4 chip, selling 1.7 million units in the launch weekend. |
 
 <!-- END GENERATED: category-index -->

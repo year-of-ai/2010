@@ -57,5 +57,5 @@ The iPad's $499 entry price also influenced the netbook market directly: netbook
 
 - [The Social Network](../arts-culture/the-social-network.md) — another landmark technology cultural moment of 2010
 - [Instagram Launch](instagram-launch.md) — launched the same year on Apple's iOS; the iPhone 4 and iPad defined the mobile platform it grew on
-- [Affordable Care Act](../society-economics/affordable-care-act.md) — major policy milestone of 2010
+- [iPhone 4 Launch](iphone-4-launch.md) — Apple's June 2010 smartphone sharing the A4 chip and iOS 4 platform introduced weeks earlier on the iPad
 - [Google Announces Withdrawal from Mainland China](google-china-withdrawal.md) — January 2010 event illustrating contrasting approaches to openness and platform control in consumer technology

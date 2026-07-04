@@ -42,6 +42,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Burj Khalifa Opening | [science-technology/burj-khalifa.md](science-technology/burj-khalifa.md) |
 | First Self-Replicating Synthetic Cell (JCVI-syn1.0) | [science-technology/synthetic-cell-jcvi-syn1.md](science-technology/synthetic-cell-jcvi-syn1.md) |
 | Microsoft Kinect for Xbox 360 Launch | [science-technology/kinect-launch.md](science-technology/kinect-launch.md) |
+| iPhone 4 Launch and Retina Display | [science-technology/iphone-4-launch.md](science-technology/iphone-4-launch.md) |
 
 ## Arts & Culture
 
@@ -54,6 +55,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | The King's Speech | [arts-culture/the-kings-speech.md](arts-culture/the-kings-speech.md) |
 | Avatar — Highest-Grossing Film and 3D Cinema Revolution | [arts-culture/avatar.md](arts-culture/avatar.md) |
 | Toy Story 3 | [arts-culture/toy-story-3.md](arts-culture/toy-story-3.md) |
+| 3D Cinema Revolution and Technology Adoption | [arts-culture/3d-cinema-revolution.md](arts-culture/3d-cinema-revolution.md) |
 
 ## Society & Economics
 
