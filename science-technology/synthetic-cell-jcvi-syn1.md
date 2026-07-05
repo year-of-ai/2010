@@ -39,3 +39,4 @@ The announcement also intensified public and policy debate over the ethics, bios
 - [Kepler-9 Multi-Planet Transiting System](kepler-9-exoplanet-discovery.md) — another 2010 scientific frontier milestone, advancing the search for and characterization of other worlds
 - [Gliese 581g Discovery](gliese-581g-exoplanet.md) — a contemporaneous 2010 discovery announcement that, like Synthia, drew intense public attention to the boundaries of life and habitability
 - [Stuxnet — First Known Cyber-Physical Weapon](stuxnet.md) — a parallel 2010 technological breakthrough whose dual-use potential sparked comparable debate over the ethics and governance of a new capability
+- [J. Craig Venter and Synthetic Biology Leadership](craig-venter-synthetic-biology.md) — companion entry on the scientist and team behind JCVI-syn1.0, the surrounding synthetic-genomics program, and the ethics and commercial debates the announcement triggered

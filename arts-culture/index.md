@@ -12,5 +12,6 @@ Articles covering arts, film, music, and cultural developments of 2010.
 | [Avatar](avatar.md) | James Cameron's science-fiction epic surpassed *Titanic* on January 25 to become the highest-grossing film of all time; its native 3D presentation drove the modern 3D cinema boom. |
 | [Toy Story 3](toy-story-3.md) | Pixar's animated sequel opened on June 18, grossing $1.067 billion worldwide to become the highest-grossing film of 2010 and the first animated feature to surpass $1 billion, then winning the Academy Award for Best Animated Feature. |
 | [3D Cinema Revolution](3d-cinema-revolution.md) | *Avatar*'s success catalyzed rapid 3D technology adoption across theaters and studios; 3D films earned about $1.3 billion in 2010, establishing premium pricing that reshaped the theatrical exhibition model for the early 2010s. |
+| [Biutiful](biutiful.md) | Alejandro González Iñárritu's Spanish-language drama premiered May 17 at Cannes, where Javier Bardem shared the Best Actor prize and later earned the first Oscar Best Actor nomination for an all-Spanish-language role. |
 
 <!-- END GENERATED: category-index -->

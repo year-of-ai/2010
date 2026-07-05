@@ -67,6 +67,6 @@ The cables had direct geopolitical consequences: the Tunisia disclosures contrib
 
 - [Arab Spring / Tunisia Jasmine Revolution](arab-spring-tunisia.md) — cables disclosing Ben Ali government corruption contributed to the Tunisian uprising context
 - [2010 Haiti Earthquake](haiti-earthquake.md) — another major 2010 event that generated significant diplomatic cable traffic
-- [Instagram Launch](../science-technology/instagram-launch.md) — concurrent 2010 shift in how information spread through digital platforms
+- [Julian Assange and WikiLeaks in 2010](../people/julian-assange.md) — companion People entry on WikiLeaks' founder, the Chelsea Manning source, and the arrest and extradition proceedings that followed the cable release
 - [Google Announces Withdrawal from Mainland China](../science-technology/google-china-withdrawal.md) — parallel 2010 controversy over information freedom, censorship, and the role of technology platforms in disclosure
 - [2010 Thai Political Crisis](2010-thai-political-crisis.md) — released cables included US Embassy Bangkok assessments of the crisis

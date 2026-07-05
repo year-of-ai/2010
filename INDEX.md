@@ -43,6 +43,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | First Self-Replicating Synthetic Cell (JCVI-syn1.0) | [science-technology/synthetic-cell-jcvi-syn1.md](science-technology/synthetic-cell-jcvi-syn1.md) |
 | Microsoft Kinect for Xbox 360 Launch | [science-technology/kinect-launch.md](science-technology/kinect-launch.md) |
 | iPhone 4 Launch and Retina Display | [science-technology/iphone-4-launch.md](science-technology/iphone-4-launch.md) |
+| J. Craig Venter and Synthetic Biology Leadership | [science-technology/craig-venter-synthetic-biology.md](science-technology/craig-venter-synthetic-biology.md) |
 
 ## Arts & Culture
 
@@ -56,6 +57,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Avatar — Highest-Grossing Film and 3D Cinema Revolution | [arts-culture/avatar.md](arts-culture/avatar.md) |
 | Toy Story 3 | [arts-culture/toy-story-3.md](arts-culture/toy-story-3.md) |
 | 3D Cinema Revolution and Technology Adoption | [arts-culture/3d-cinema-revolution.md](arts-culture/3d-cinema-revolution.md) |
+| Biutiful | [arts-culture/biutiful.md](arts-culture/biutiful.md) |
 
 ## Society & Economics
 
@@ -79,5 +81,6 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Corazon Aquino — People Power Legacy and the 2010 Philippine Election | [people/corazon-aquino.md](people/corazon-aquino.md) |
 | Mohamed Bouazizi — Arab Spring Catalyst | [people/mohamed-bouazizi.md](people/mohamed-bouazizi.md) |
 | LeBron James' "The Decision" | [people/lebron-james-the-decision.md](people/lebron-james-the-decision.md) |
+| Julian Assange and WikiLeaks in 2010 | [people/julian-assange.md](people/julian-assange.md) |
 
 <!-- END GENERATED: master-index -->
