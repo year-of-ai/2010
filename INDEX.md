@@ -26,6 +26,8 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | 2010 Winter Olympics (Vancouver) | [history-politics/2010-winter-olympics-vancouver.md](history-politics/2010-winter-olympics-vancouver.md) |
 | Smolensk Air Disaster | [history-politics/smolensk-air-disaster.md](history-politics/smolensk-air-disaster.md) |
 | 2010 United States Midterm Elections | [history-politics/2010-us-midterm-elections.md](history-politics/2010-us-midterm-elections.md) |
+| Mavi Marmara Incident — Gaza Flotilla Raid | [history-politics/mavi-marmara-incident.md](history-politics/mavi-marmara-incident.md) |
+| 2010 Russian Heat Wave and Wildfires | [history-politics/russia-heatwave-wildfires-2010.md](history-politics/russia-heatwave-wildfires-2010.md) |
 
 ## Science & Technology
 
@@ -82,5 +84,6 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Mohamed Bouazizi — Arab Spring Catalyst | [people/mohamed-bouazizi.md](people/mohamed-bouazizi.md) |
 | LeBron James' "The Decision" | [people/lebron-james-the-decision.md](people/lebron-james-the-decision.md) |
 | Julian Assange and WikiLeaks in 2010 | [people/julian-assange.md](people/julian-assange.md) |
+| Liu Xiaobo — Nobel Peace Prize Winner | [people/liu-xiaobo.md](people/liu-xiaobo.md) |
 
 <!-- END GENERATED: master-index -->

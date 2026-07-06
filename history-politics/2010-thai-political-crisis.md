@@ -45,3 +45,4 @@ The deaths of journalists, a medical volunteer, and foreign correspondents durin
 - [Arab Spring / Tunisia Jasmine Revolution](arab-spring-tunisia.md) — contemporaneous popular uprising against entrenched political power
 - [Aung San Suu Kyi](../people/aung-san-suu-kyi.md) — parallel Southeast Asian democracy struggle under military repression
 - [WikiLeaks Cables](wikileaks-cables.md) — US diplomatic cables released in 2010 included assessments of the Thai crisis
+- [Mavi Marmara Incident — Gaza Flotilla Raid](mavi-marmara-incident.md) — a concurrent May 2010 confrontation that drew intense international scrutiny over the use of force

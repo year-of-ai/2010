@@ -55,6 +55,7 @@ Google's January 12 blog post stated: "We have decided we are no longer willing 
 - [iPad Launch](ipad-launch.md) — the Apple device unveiled January 27, 2010, two weeks after Google's announcement, illustrated contrasting strategies for balancing openness and platform control in consumer technology
 - [WikiLeaks Diplomatic Cables Release](../history-politics/wikileaks-cables.md) — the November 2010 cables leak raised parallel questions about information freedom, government surveillance, and the role of technology platforms in political disclosure
 - [Shanghai Expo 2010](../society-economics/shanghai-expo-2010.md) — China's May–October World's Fair celebrated national technological ambition the same year Google exited the mainland market over censorship, framing the tension between China's tech rise and Western platform norms
+- [Liu Xiaobo — Nobel Peace Prize Winner](../people/liu-xiaobo.md) — Beijing's censorship of the October 2010 Nobel award to the imprisoned dissident illustrated the same information-control environment that drove Google's exit
 
 ## Sources
 
