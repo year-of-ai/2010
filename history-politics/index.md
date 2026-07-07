@@ -22,5 +22,6 @@ Articles covering historical events and political developments of 2010.
 | [2010 United States Midterm Elections](2010-us-midterm-elections.md) | Republicans gained 63 House seats on November 2 — the largest swing since 1948 — retaking the chamber, while the Tea Party movement reshaped the Republican Party and the decade's political trajectory. |
 | [Mavi Marmara Incident — Gaza Flotilla Raid](mavi-marmara-incident.md) | Israeli naval commandos boarded the Turkish aid ship Mavi Marmara in international waters on May 31, killing nine activists; the raid ruptured Israel–Turkey relations until 2016 and intensified international scrutiny of the Gaza blockade. |
 | [2010 Russian Heat Wave and Wildfires](russia-heatwave-wildfires-2010.md) | A record heat wave reaching 44°C and hundreds of peat and forest fires gripped western Russia from July to September, causing an estimated 55,000 excess deaths and a grain-export ban that spiked global wheat prices. |
+| [2010 United Kingdom General Election](2010-uk-general-election.md) | The May 6 election produced a hung parliament (Conservative 306, Labour 258, Lib Dem 57), ending 13 years of Labour government and forming the UK's first coalition since World War II under David Cameron and Nick Clegg. |
 
 <!-- END GENERATED: category-index -->
