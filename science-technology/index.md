@@ -17,5 +17,6 @@ Articles covering scientific discoveries and technological developments of 2010.
 | [Microsoft Kinect for Xbox 360 Launch](kinect-launch.md) | Microsoft released the controller-free Kinect motion sensor on November 4, setting a Guinness record as the fastest-selling consumer electronics device and bringing depth-sensing into mainstream homes. |
 | [iPhone 4 Launch and Retina Display](iphone-4-launch.md) | Apple released the iPhone 4 on June 24 with a 326 ppi Retina display, a glass-and-steel design, dual cameras, FaceTime, and its first in-house A4 chip, selling 1.7 million units in the launch weekend. |
 | [J. Craig Venter and Synthetic Biology Leadership](craig-venter-synthetic-biology.md) | Geneticist J. Craig Venter led the JCVI team that unveiled JCVI-syn1.0 on May 20, establishing synthetic biology as an engineering discipline and triggering an international bioethics debate. |
+| [Graphene and the 2010 Nobel Prize in Physics](graphene-nobel-prize-physics-2010.md) | Andre Geim and Konstantin Novoselov of the University of Manchester won the October 5 Nobel Prize in Physics for isolating graphene, the first two-dimensional material, using adhesive-tape exfoliation of graphite in 2004. |
 
 <!-- END GENERATED: category-index -->

@@ -1,6 +1,6 @@
 ---
 title: "2010 United States Census"
-date: "2010-04-01"
+date: 2010-04-01
 category: "Society & Economics"
 ---
 

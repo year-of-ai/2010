@@ -1,6 +1,6 @@
 ---
 title: "WikiLeaks Diplomatic Cables Release"
-date: "2010-11-28"
+date: 2010-11-28
 category: "History & Politics"
 ---
 

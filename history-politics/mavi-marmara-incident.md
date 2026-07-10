@@ -1,6 +1,6 @@
 ---
 title: "Mavi Marmara Incident — Gaza Flotilla Raid"
-date: "May 31, 2010"
+date: 2010-05-31
 category: "History & Politics"
 ---
 

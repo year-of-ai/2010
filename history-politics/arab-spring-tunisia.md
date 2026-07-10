@@ -1,6 +1,6 @@
 ---
 title: "Arab Spring / Tunisia Jasmine Revolution"
-date: "2010-12-17"
+date: 2010-12-17
 category: "History & Politics"
 ---
 

@@ -29,6 +29,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Mavi Marmara Incident — Gaza Flotilla Raid | [history-politics/mavi-marmara-incident.md](history-politics/mavi-marmara-incident.md) |
 | 2010 Russian Heat Wave and Wildfires | [history-politics/russia-heatwave-wildfires-2010.md](history-politics/russia-heatwave-wildfires-2010.md) |
 | 2010 United Kingdom General Election | [history-politics/2010-uk-general-election.md](history-politics/2010-uk-general-election.md) |
+| Sinking of ROKS Cheonan | [history-politics/roks-cheonan-sinking.md](history-politics/roks-cheonan-sinking.md) |
 
 ## Science & Technology
 
@@ -47,6 +48,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Microsoft Kinect for Xbox 360 Launch | [science-technology/kinect-launch.md](science-technology/kinect-launch.md) |
 | iPhone 4 Launch and Retina Display | [science-technology/iphone-4-launch.md](science-technology/iphone-4-launch.md) |
 | J. Craig Venter and Synthetic Biology Leadership | [science-technology/craig-venter-synthetic-biology.md](science-technology/craig-venter-synthetic-biology.md) |
+| Graphene and the 2010 Nobel Prize in Physics | [science-technology/graphene-nobel-prize-physics-2010.md](science-technology/graphene-nobel-prize-physics-2010.md) |
 
 ## Arts & Culture
 
@@ -88,5 +90,6 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | LeBron James' "The Decision" | [people/lebron-james-the-decision.md](people/lebron-james-the-decision.md) |
 | Julian Assange and WikiLeaks in 2010 | [people/julian-assange.md](people/julian-assange.md) |
 | Liu Xiaobo — Nobel Peace Prize Winner | [people/liu-xiaobo.md](people/liu-xiaobo.md) |
+| J. D. Salinger — Death of the Author of The Catcher in the Rye | [people/jd-salinger.md](people/jd-salinger.md) |
 
 <!-- END GENERATED: master-index -->

@@ -1,6 +1,6 @@
 ---
 title: "Affordable Care Act"
-date: "2010-03-23"
+date: 2010-03-23
 category: "Society & Economics"
 ---
 

@@ -83,3 +83,4 @@ This pace of discovery reshaped public expectations about exoplanets, reinforcin
 - [Gliese 581g Discovery](gliese-581g-exoplanet.md) — announced one month later (September 29, 2010); the first claimed potentially habitable exoplanet, demonstrating the extraordinary pace of exoplanet discovery in 2010
 - [iPad Launch](ipad-launch.md) — January 2010 technology milestone that expanded public access to real-time space and science news, contextualizing the media impact of the Kepler-9 announcement
 - [Google Withdrawal from China](google-china-withdrawal.md) — contemporaneous 2010 technology story that dominated headlines alongside Kepler's early discoveries, illustrating the competing narratives of the year
+- [Graphene and the 2010 Nobel Prize in Physics](graphene-nobel-prize-physics-2010.md) — another 2010 frontier-of-science milestone, recognized the same autumn, that opened an entirely new field of research

@@ -1,6 +1,6 @@
 ---
 title: "Biutiful"
-date: "2010-05-17"
+date: 2010-05-17
 category: "Arts & Culture"
 ---
 

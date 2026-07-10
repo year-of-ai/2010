@@ -1,6 +1,6 @@
 ---
 title: "Liu Xiaobo — Nobel Peace Prize Winner"
-date: "October 8, 2010"
+date: 2010-10-08
 category: "People"
 ---
 

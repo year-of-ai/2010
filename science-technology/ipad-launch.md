@@ -1,6 +1,6 @@
 ---
 title: "iPad Launch"
-date: "2010-04-03"
+date: 2010-04-03
 category: "Science & Technology"
 ---
 

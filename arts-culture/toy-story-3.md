@@ -1,6 +1,6 @@
 ---
 title: "Toy Story 3"
-date: "June 18, 2010"
+date: 2010-06-18
 category: "Arts & Culture"
 ---
 

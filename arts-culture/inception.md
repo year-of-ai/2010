@@ -1,6 +1,6 @@
 ---
 title: "Inception"
-date: "2010-07-16"
+date: 2010-07-16
 category: "Arts & Culture"
 ---
 

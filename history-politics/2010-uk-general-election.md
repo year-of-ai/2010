@@ -1,6 +1,6 @@
 ---
 title: "2010 United Kingdom General Election"
-date: "2010-05-06"
+date: 2010-05-06
 category: "History & Politics"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "2010 Russian Heat Wave and Wildfires"
-date: "July–September 2010"
+date: 2010-07-06
 category: "History & Politics"
 ---
 

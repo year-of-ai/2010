@@ -1,6 +1,6 @@
 ---
 title: "2010 United States Midterm Elections"
-date: "November 2, 2010"
+date: 2010-11-02
 category: "History & Politics"
 ---
 

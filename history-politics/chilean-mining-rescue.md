@@ -1,6 +1,6 @@
 ---
 title: "2010 Copiapó Mining Accident and Rescue"
-date: "2010-10-13"
+date: 2010-10-13
 category: "History & Politics"
 ---
 

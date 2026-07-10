@@ -12,5 +12,6 @@ Articles covering notable people associated with the year 2010.
 | [LeBron James' "The Decision"](lebron-james-the-decision.md) | NBA star LeBron James announced his move to the Miami Heat during a July 8, 2010 ESPN special, inaugurating the league's modern player-empowerment superteam era. |
 | [Julian Assange and WikiLeaks in 2010](julian-assange.md) | WikiLeaks founder Julian Assange rose to global prominence through the November 28 release of 251,287 US State Department cables; he surrendered to London police on December 7, beginning a decade-long legal battle. |
 | [Liu Xiaobo — Nobel Peace Prize Winner](liu-xiaobo.md) | The imprisoned Chinese dissident and Charter 08 author was awarded the 2010 Nobel Peace Prize on October 8; Beijing censored coverage and detained his wife, leaving his chair empty at the December ceremony. |
+| [J. D. Salinger — Death of the Author of The Catcher in the Rye](jd-salinger.md) | The reclusive American author of The Catcher in the Rye died at his New Hampshire home on January 27 at age 91, ending one of twentieth-century literature's most singular careers. |
 
 <!-- END GENERATED: category-index -->

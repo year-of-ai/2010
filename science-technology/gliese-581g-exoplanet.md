@@ -1,6 +1,6 @@
 ---
 title: "Gliese 581g Discovery"
-date: "September 29, 2010"
+date: 2010-09-29
 category: "Science & Technology"
 ---
 
@@ -71,3 +71,4 @@ Despite its eventual refutation, the September 2010 announcement had lasting sci
 - [iPad launch](ipad-launch.md) — another 2010 science-and-technology milestone that captured broad public attention
 - [Instagram launch](instagram-launch.md) — launched in October 2010, the same month controversy erupted over Gliese 581g's validity
 - [Kepler-9 multi-planet system](kepler-9-exoplanet-discovery.md) — confirmed one month earlier (August 2010), part of the same landmark year for exoplanet science
+- [Graphene and the 2010 Nobel Prize in Physics](graphene-nobel-prize-physics-2010.md) — a contemporaneous 2010 scientific advance that, unlike the disputed Gliese 581g claim, was swiftly confirmed and honored with a Nobel Prize

@@ -1,6 +1,6 @@
 ---
 title: "Instagram Launch"
-date: "2010-10-06"
+date: 2010-10-06
 category: "Science & Technology"
 ---
 

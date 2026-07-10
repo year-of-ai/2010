@@ -1,6 +1,6 @@
 ---
 title: "Conan O'Brien's Tonight Show Transition"
-date: "2010-01-22"
+date: 2010-01-22
 category: "Arts & Culture"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "2010 Thai Political Crisis"
-date: "2010-05-19"
+date: 2010-05-19
 category: "History & Politics"
 ---
 

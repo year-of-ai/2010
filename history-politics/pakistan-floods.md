@@ -1,6 +1,6 @@
 ---
 title: "2010 Pakistan Floods"
-date: "2010-07-27"
+date: 2010-07-27
 category: "History & Politics"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Eyjafjallajökull Eruption"
-date: "2010-04-14"
+date: 2010-04-14
 category: "History & Politics"
 ---
 

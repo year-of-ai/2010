@@ -1,6 +1,6 @@
 ---
 title: "The Social Network (2010 film)"
-date: "2010-10-01"
+date: 2010-10-01
 category: "Arts & Culture"
 ---
 

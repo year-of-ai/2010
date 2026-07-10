@@ -1,6 +1,6 @@
 ---
 title: "The King's Speech"
-date: "September 6, 2010"
+date: 2010-09-06
 category: "Arts & Culture"
 ---
 

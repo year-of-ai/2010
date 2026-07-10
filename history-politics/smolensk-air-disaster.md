@@ -41,3 +41,4 @@ The event also reshaped Polish domestic politics for more than a decade. Competi
 - [Eyjafjallajökull Eruption](eyjafjallajokull-eruption.md) — the other defining European event of April 2010, which shut down the continent's airspace days after the Smolensk crash
 - [European Sovereign Debt Crisis and the First Greek Bailout](../society-economics/european-sovereign-debt-crisis.md) — the year's parallel strain on European stability, unfolding across the same spring of 2010
 - [Corazon Aquino — People Power Legacy and the 2010 Philippine Election](../people/corazon-aquino.md) — a contemporaneous case of a leader's death reshaping a nation's politics and democratic succession
+- [Sinking of ROKS Cheonan](roks-cheonan-sinking.md) — another 2010 event in which a sudden catastrophic loss abruptly reshaped a nation's politics and international relations

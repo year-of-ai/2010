@@ -1,6 +1,6 @@
 ---
 title: "Julian Assange and WikiLeaks in 2010"
-date: "2010-11-28"
+date: 2010-11-28
 category: "People"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "J. Craig Venter and Synthetic Biology Leadership in 2010"
-date: "2010-05-20"
+date: 2010-05-20
 category: "Science & Technology"
 ---
 
