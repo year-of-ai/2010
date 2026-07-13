@@ -77,6 +77,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Global Unemployment and Economic Recovery of 2010 | [society-economics/global-unemployment-and-economic-recovery-2010.md](society-economics/global-unemployment-and-economic-recovery-2010.md) |
 | Shanghai Expo 2010 | [society-economics/shanghai-expo-2010.md](society-economics/shanghai-expo-2010.md) |
 | 2010 United States Census | [society-economics/2010-us-census.md](society-economics/2010-us-census.md) |
+| Twitter and Social Media Growth in 2010 | [society-economics/twitter-social-media-growth-2010.md](society-economics/twitter-social-media-growth-2010.md) |
 
 ## People
 
@@ -91,5 +92,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | Julian Assange and WikiLeaks in 2010 | [people/julian-assange.md](people/julian-assange.md) |
 | Liu Xiaobo — Nobel Peace Prize Winner | [people/liu-xiaobo.md](people/liu-xiaobo.md) |
 | J. D. Salinger — Death of the Author of The Catcher in the Rye | [people/jd-salinger.md](people/jd-salinger.md) |
+| Lionel Messi's 2010 Ballon d'Or | [people/lionel-messi-ballon-dor-2010.md](people/lionel-messi-ballon-dor-2010.md) |
+| Nelson Mandela's 92nd Birthday and First International Mandela Day | [people/nelson-mandela-92nd-birthday.md](people/nelson-mandela-92nd-birthday.md) |
 
 <!-- END GENERATED: master-index -->
