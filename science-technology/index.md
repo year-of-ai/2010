@@ -18,5 +18,6 @@ Articles covering scientific discoveries and technological developments of 2010.
 | [iPhone 4 Launch and Retina Display](iphone-4-launch.md) | Apple released the iPhone 4 on June 24 with a 326 ppi Retina display, a glass-and-steel design, dual cameras, FaceTime, and its first in-house A4 chip, selling 1.7 million units in the launch weekend. |
 | [J. Craig Venter and Synthetic Biology Leadership](craig-venter-synthetic-biology.md) | Geneticist J. Craig Venter led the JCVI team that unveiled JCVI-syn1.0 on May 20, establishing synthetic biology as an engineering discipline and triggering an international bioethics debate. |
 | [Graphene and the 2010 Nobel Prize in Physics](graphene-nobel-prize-physics-2010.md) | Andre Geim and Konstantin Novoselov of the University of Manchester won the October 5 Nobel Prize in Physics for isolating graphene, the first two-dimensional material, using adhesive-tape exfoliation of graphite in 2004. |
+| [Large Hadron Collider — First 7 TeV Collisions](large-hadron-collider-7-tev-collisions.md) | On March 30, CERN's Large Hadron Collider collided proton beams at a record 7 TeV centre-of-mass energy (3.5 TeV per beam), launching the physics run that discovered the Higgs boson in 2012. |
 
 <!-- END GENERATED: category-index -->

@@ -49,6 +49,7 @@ See also: [TIMELINE.md](TIMELINE.md) for a chronological view, [README.md](READM
 | iPhone 4 Launch and Retina Display | [science-technology/iphone-4-launch.md](science-technology/iphone-4-launch.md) |
 | J. Craig Venter and Synthetic Biology Leadership | [science-technology/craig-venter-synthetic-biology.md](science-technology/craig-venter-synthetic-biology.md) |
 | Graphene and the 2010 Nobel Prize in Physics | [science-technology/graphene-nobel-prize-physics-2010.md](science-technology/graphene-nobel-prize-physics-2010.md) |
+| Large Hadron Collider — First 7 TeV Collisions | [science-technology/large-hadron-collider-7-tev-collisions.md](science-technology/large-hadron-collider-7-tev-collisions.md) |
 
 ## Arts & Culture
 

@@ -42,3 +42,4 @@ The discovery also carried a broader lesson about the value of curiosity-driven,
 - [First Self-Replicating Synthetic Cell (JCVI-syn1.0)](synthetic-cell-jcvi-syn1.md) — a parallel 2010 science milestone that, like graphene, redefined what was thought physically possible
 - [Kepler-9 Multi-Planet Transiting System](kepler-9-exoplanet-discovery.md) — another 2010 frontier-of-science announcement advancing a new experimental capability
 - [Gliese 581g Discovery](gliese-581g-exoplanet.md) — a contemporaneous 2010 scientific claim that, in contrast to graphene, was later contested through peer review
+- [Large Hadron Collider — First 7 TeV Collisions](large-hadron-collider-7-tev-collisions.md) — the other defining 2010 milestone in fundamental physics, opening the experimental run that would confirm the Higgs boson
