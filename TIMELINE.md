@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Timeline of 2010
+preview: /images/previews/timeline-of-2010.svg
 permalink: "/TIMELINE/"
 ---
 
@@ -22,6 +23,7 @@ A chronological index of notable events in the year 2010, drawn from the knowled
 | Throughout 2010 | 3D cinema revolution — *Avatar*'s success catalyzes rapid 3D adoption across theaters and studios; 3D films earn about $1.3 billion in 2010 and establish durable premium theatrical pricing | Arts & Culture | [details]({{ '/news/arts-culture/3d-cinema-revolution/' | relative_url }}) |
 | February 12–28, 2010 | 2010 Winter Olympics (Vancouver) — Canada hosts the Winter Games and wins a record 14 golds as host nation; Sidney Crosby's overtime goal seals men's hockey gold before 114 million viewers worldwide | History & Politics | [details]({{ '/news/history-politics/2010-winter-olympics-vancouver/' | relative_url }}) |
 | February 27, 2010 | 2010 Chile earthquake — magnitude 8.8 megathrust quake and Pacific tsunami off the Maule coast kill 525 people; one of the strongest earthquakes ever instrumentally recorded | History & Politics | [details]({{ '/news/history-politics/2010-chile-earthquake/' | relative_url }}) |
+| March 7, 2010 | 82nd Academy Awards — Kathryn Bigelow's Iraq War drama *The Hurt Locker* wins Best Picture and Best Director, making Bigelow the first woman to win the directing Oscar, in a ceremony that expanded the Best Picture field to ten nominees | Arts & Culture | [details]({{ '/news/arts-culture/82nd-academy-awards/' | relative_url }}) |
 | March 23, 2010 | Affordable Care Act signed — President Obama signs the most significant US healthcare overhaul since Medicare/Medicaid in 1965 | Society & Economics | [details]({{ '/news/society-economics/affordable-care-act/' | relative_url }}) |
 | March 26, 2010 | Sinking of ROKS Cheonan — the South Korean corvette *Cheonan* breaks apart and sinks in the Yellow Sea near Baengnyeong Island, killing 46 sailors; a multinational investigation later attributes it to a North Korean torpedo | History & Politics | [details]({{ '/news/history-politics/roks-cheonan-sinking/' | relative_url }}) |
 | March 30, 2010 | Large Hadron Collider first 7 TeV collisions — CERN's LHC collides proton beams at a record 7 TeV centre-of-mass energy (3.5 TeV per beam), launching the physics run that led to the 2012 discovery of the Higgs boson | Science & Technology | [details]({{ '/news/science-technology/large-hadron-collider-7-tev-collisions/' | relative_url }}) |
@@ -70,6 +72,7 @@ A chronological index of notable events in the year 2010, drawn from the knowled
 | November 2, 2010 | 2010 US midterm elections — Republicans gain 63 House seats, the largest swing since 1948, retaking the chamber; the Tea Party movement reshapes the decade's politics | History & Politics | [details]({{ '/news/history-politics/2010-us-midterm-elections/' | relative_url }}) |
 | November 4, 2010 | Microsoft Kinect launched — Microsoft releases the controller-free Kinect motion sensor for Xbox 360, which sets a Guinness record as the fastest-selling consumer electronics device (8 million units in 60 days) | Science & Technology | [details]({{ '/news/science-technology/kinect-launch/' | relative_url }}) |
 | November 13, 2010 | Aung San Suu Kyi released from house arrest — Myanmar's pro-democracy leader freed after roughly 15 years of detention, days after the junta's first multiparty elections in 20 years | People | [details]({{ '/news/people/aung-san-suu-kyi/' | relative_url }}) |
+| November 14, 2010 | Sebastian Vettel becomes Formula One's youngest world champion — winning the season-ending Abu Dhabi Grand Prix, the 23-year-old Red Bull driver takes his first drivers' title by four points over Fernando Alonso, the youngest champion in the sport's history | People | [details]({{ '/news/people/sebastian-vettel-youngest-f1-champion/' | relative_url }}) |
 | November 28, 2010 | WikiLeaks releases diplomatic cables — WikiLeaks publishes 251,287 classified US State Department cables in major intelligence disclosure | History & Politics | [details]({{ '/news/history-politics/wikileaks-cables/' | relative_url }}) |
 | November 28, 2010 | Julian Assange and WikiLeaks — the Cablegate release brings WikiLeaks founder Julian Assange to global prominence; he surrenders to London police on December 7, opening a decade-long legal battle | People | [details]({{ '/news/people/julian-assange/' | relative_url }}) |
 | December 3, 2010 | *Black Swan* released — Darren Aronofsky's psychological ballet thriller, which premiered at the Venice Film Festival on September 1, opens in US theaters and goes on to win Natalie Portman the Academy Award for Best Actress | Arts & Culture | [details]({{ '/news/arts-culture/black-swan/' | relative_url }}) |
@@ -77,5 +80,6 @@ A chronological index of notable events in the year 2010, drawn from the knowled
 | December 8, 2010 | SpaceX Falcon 9/Dragon COTS Demo 1 — SpaceX launches Dragon on a Falcon 9 and recovers it after two orbits, becoming the first private company to launch, orbit, and recover a spacecraft and opening the commercial-spaceflight era | Science & Technology | [details]({{ '/news/science-technology/spacex-falcon-9-dragon-cots-demo-1/' | relative_url }}) |
 | December 17, 2010 | Arab Spring begins — Tunisia's Jasmine Revolution begins, setting off a wave of uprisings across the Arab world | History & Politics | [details]({{ '/news/history-politics/arab-spring-tunisia/' | relative_url }}) |
 | December 17, 2010 | Mohamed Bouazizi self-immolation — Tunisian street vendor's protest in Sidi Bouzid becomes the catalyst of the Arab Spring | People | [details]({{ '/news/people/mohamed-bouazizi/' | relative_url }}) |
+| December 21, 2010 | FCC adopts the 2010 Open Internet Order — the US Federal Communications Commission approves its first enforceable net-neutrality rules (transparency, no blocking, no unreasonable discrimination) in a 3–2 vote, opening a decade of legal battles over broadband regulation | Society & Economics | [details]({{ '/news/society-economics/fcc-open-internet-order/' | relative_url }}) |
 
 <!-- END GENERATED: timeline -->

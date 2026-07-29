@@ -2,6 +2,7 @@
 title: The Year 2010 — Knowledge Index
 permalink: "/knowledge-index/"
 description: The full 2010 knowledge table — every notable event, linked to its article.
+preview: /images/previews/the-year-2010-knowledge-index.svg
 ---
 
 # The Year 2010
@@ -97,3 +98,6 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2009](http
 | [Bitcoin Pizza Day]({{ '/news/society-economics/bitcoin-pizza-day/' | relative_url }}) | On May 22, programmer Laszlo Hanyecz paid 10,000 BTC for two pizzas — the first documented commercial bitcoin transaction, proving the currency could buy real-world goods. |
 | [Julia Gillard becomes Australia's first female PM]({{ '/news/people/julia-gillard-first-female-pm/' | relative_url }}) | On June 24, Julia Gillard replaced Kevin Rudd as Labor leader to become Australia's 27th prime minister and the first woman to hold the office. |
 | [*Black Swan* released]({{ '/news/arts-culture/black-swan/' | relative_url }}) | Darren Aronofsky's psychological ballet thriller opened in December and won Natalie Portman the Academy Award for Best Actress, becoming a landmark of the genre. |
+| [82nd Academy Awards]({{ '/news/arts-culture/82nd-academy-awards/' | relative_url }}) | At the March 7 ceremony, Kathryn Bigelow's *The Hurt Locker* won Best Picture and made Bigelow the first woman to win Best Director, beating the year's box-office giant *Avatar*. |
+| [Sebastian Vettel wins his first F1 title]({{ '/news/people/sebastian-vettel-youngest-f1-champion/' | relative_url }}) | Winning the November 14 Abu Dhabi Grand Prix, the 23-year-old Red Bull driver took the drivers' championship to become the youngest world champion in Formula One history. |
+| [FCC adopts the 2010 Open Internet Order]({{ '/news/society-economics/fcc-open-internet-order/' | relative_url }}) | On December 21, the FCC approved its first enforceable net-neutrality rules in a 3–2 vote, opening a decade of legal and regulatory battles over broadband. |
