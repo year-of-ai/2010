@@ -75,6 +75,7 @@ defaults:
       share: true
 # Kept in the repo but NOT published as site pages.
 exclude:
+  - PRD.md
   - CLAUDE.md
   - .claude/
   - telemetry/
